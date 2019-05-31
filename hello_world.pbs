@@ -5,6 +5,8 @@
 #PBS -e go.e
 #PBS -o go.o
 
+#PBS -M 8bk@ornl.gov
+
 cd ~/rtest
 pwd
 cores_per_r=9
