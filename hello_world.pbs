@@ -1,0 +1,22 @@
+#!/bin/bash
+#PBS -N go
+#PBS -l walltime=00:01:00
+#PBS -l nodes=2:ppn=36
+#PBS -e go.e
+#PBS -o go.o
+
+cd ~/rtest
+pwd
+cores_per_r=9
+
+## modules can vary on platforms
+module load apps/openmpi/gnu/3.0.0
+echo "loaded openmpi"
+module load apps/R/3.4.0
+echo "loaded R"
+module list
+
+# An illustration of fine control of R scripts and cores on several nodes
+# This runs 4 R sessions on each of 2 nodes (for a total of 8)
+# The hello_world.R script is set to use $cores_per_r cores in mclapply
+orterun -np 8 --map-by ppr:4:node Rscript hello_world.R $cores_per_r
