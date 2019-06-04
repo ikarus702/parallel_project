@@ -1,2 +1,2 @@
 # parallel_project
-Learn Parallel Computing and so on.
+Learn Parallel Computing and so on!
