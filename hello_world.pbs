@@ -1,22 +1,24 @@
 #!/bin/bash
-#PBS -N go
-#PBS -l walltime=00:01:00
-#PBS -l nodes=2:ppn=36
-#PBS -e go.e
-#PBS -o go.o
-
-#PBS -M 8bk@ornl.gov
+#PBS -N rf
+#PBS -A ccsd
+#PBS -l qos=std,nodes=2:ppn=32,walltime=00:10:00
+#PBS -q batch
+#PBS -W group_list=cades-ccsd
+#PBS -m abe
+#PBS -o rf.o
+#PBS -e rf.e
 
 cd ~/rtest
 pwd
-cores_per_r=9
+cores_per_r=8
 
 ## modules can vary on platforms
-module load apps/openmpi/gnu/3.0.0
-echo "loaded openmpi"
-module load apps/R/3.4.0
+module load R
 echo "loaded R"
 module list
+
+## prevent warning when fork is used with MPI
+export OMPI_MCA_mpi_warn_on_fork=0
 
 # An illustration of fine control of R scripts and cores on several nodes
 # This runs 4 R sessions on each of 2 nodes (for a total of 8)
