@@ -1,0 +1,37 @@
+Using 2x2 for the default grid size
+
+matrix for  3 
+matrix for  0 
+matrix for  1 
+matrix for  2 
+
+DENSE DISTRIBUTED MATRIX
+---------------------------
+@Data:			-5.26e+01,  4.30e+01,  9.73e+01,  1.09e+02, ...
+Process grid:		2x2
+Global dimension:	1000x1000
+(max) Local dimension:	500x500
+Blocking:		250x250
+BLACS ICTXT:		0
+
+[1] 1000 1000
+[1] 1000 1000
+processing time for pbdDMAT is 
+[1] 1000 1000
+processing time for pbdDMAT is 
+[1] 1000 1000
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+ 50.520 180.994  40.487 
+   user  system elapsed 
+ 46.034 157.192  40.487 
+   user  system elapsed 
+ 47.343 152.848  40.488 
+   user  system elapsed 
+ 41.074  95.975  40.487 
+processing time for single node is
+   user  system elapsed 
+ 87.224  16.923   6.586 
+[1] TRUE
+[1] TRUE
