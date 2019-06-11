@@ -80,7 +80,6 @@ ptm <- proc.time()
 dZ <-as.ddmatrix(x=Z,bldim=bldim)
 dOmega <- as.ddmatrix(x=Omega, bldim=bldim)
 
-dGamma <- chol(dOmega)
 
 #dGamma2 <- crossprod(dGamma,dGamma)
 #Gamma2 <- as.matrix(dGamma2,proc.dest=0)
@@ -94,8 +93,8 @@ dGamma <- chol(dOmega)
 cat("processing time for pbdDMAT is \n")
 
 
-cross_dxdG <- crossprod(t(dZ),t(dGamma)) 
-dK <- crossprod(t(cross_dxdG), t(cross_dxdG))
+cross_dZdOm <- crossprod(t(dZ),dOmega) 
+dK <- crossprod(t(cross_dZdOm), t(dZ))
 
 
 pbd_K <- as.matrix(dK, proc.dest=0)
@@ -135,6 +134,6 @@ if(i==1){
 
 if(comm.rank()==0){
 
-  save.image("~/src/my_project/parallel_project/Comp_Kernel_Matmul_Col.RData")
+  save.image("~/src/my_project/parallel_project/Comp_Kernel_Prod_Col.RData")
 }
 finalize()
