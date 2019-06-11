@@ -1,0 +1,152 @@
+Using 4x4 for the default grid size
+
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for single node is
+            [,1]       [,2]       [,3]        [,4]       [,5]
+[1,] 1362346.823 -158333.25 -110230.81    5539.473   64376.27
+[2,] -158333.245 1470436.72  453379.85   92062.130   43560.17
+[3,] -110230.810  453379.85 1098161.42   73189.730  -80941.78
+[4,]    5539.473   92062.13   73189.73  745987.658 -154289.46
+[5,]   64376.271   43560.17  -80941.78 -154289.458  915211.97
+            [,1]       [,2]       [,3]        [,4]       [,5]
+[1,] 1362346.823 -158333.25 -110230.81    5539.473   64376.27
+[2,] -158333.245 1470436.72  453379.85   92062.130   43560.17
+[3,] -110230.810  453379.85 1098161.42   73189.730  -80941.78
+[4,]    5539.473   92062.13   73189.73  745987.658 -154289.46
+[5,]   64376.271   43560.17  -80941.78 -154289.458  915211.97
+[1] TRUE
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for single node is
+           [,1]      [,2]      [,3]        [,4]      [,5]
+[1,] 850694.081  31425.65 103331.07   -4214.906 186067.24
+[2,]  31425.645 993196.96  28033.12  163495.115 -44592.52
+[3,] 103331.072  28033.12 972837.53   22997.327  67973.23
+[4,]  -4214.906 163495.11  22997.33 1378425.087 202508.07
+[5,] 186067.241 -44592.52  67973.23  202508.066 899622.37
+           [,1]      [,2]      [,3]        [,4]      [,5]
+[1,] 850694.081  31425.65 103331.07   -4214.906 186067.24
+[2,]  31425.645 993196.96  28033.12  163495.115 -44592.52
+[3,] 103331.072  28033.12 972837.53   22997.327  67973.23
+[4,]  -4214.906 163495.11  22997.33 1378425.087 202508.07
+[5,] 186067.241 -44592.52  67973.23  202508.066 899622.37
+[1] TRUE
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for single node is
+          [,1]      [,2]      [,3]      [,4]      [,5]
+[1,] 883052.30  82909.29 -48875.96 -11576.00  19517.33
+[2,]  82909.29 910826.91 200333.52  93328.11 -17385.82
+[3,] -48875.96 200333.52 929834.46  37781.07 -62775.95
+[4,] -11576.00  93328.11  37781.07 953091.07 -40977.15
+[5,]  19517.33 -17385.82 -62775.95 -40977.15 885246.09
+          [,1]      [,2]      [,3]      [,4]      [,5]
+[1,] 883052.30  82909.29 -48875.96 -11576.00  19517.33
+[2,]  82909.29 910826.91 200333.52  93328.11 -17385.82
+[3,] -48875.96 200333.52 929834.46  37781.07 -62775.95
+[4,] -11576.00  93328.11  37781.07 953091.07 -40977.15
+[5,]  19517.33 -17385.82 -62775.95 -40977.15 885246.09
+[1] TRUE
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for single node is
+           [,1]       [,2]       [,3]       [,4]       [,5]
+[1,]  976394.90  71416.874  118950.61 -161451.36  50205.115
+[2,]   71416.87 746290.338  -41753.99  -49195.72   6662.737
+[3,]  118950.61 -41753.991 1001352.25  266523.92  87158.202
+[4,] -161451.36 -49195.718  266523.92 1121385.01  34479.580
+[5,]   50205.11   6662.737   87158.20   34479.58 545138.301
+           [,1]       [,2]       [,3]       [,4]       [,5]
+[1,]  976394.90  71416.874  118950.61 -161451.36  50205.115
+[2,]   71416.87 746290.338  -41753.99  -49195.72   6662.737
+[3,]  118950.61 -41753.991 1001352.25  266523.92  87158.202
+[4,] -161451.36 -49195.718  266523.92 1121385.01  34479.580
+[5,]   50205.11   6662.737   87158.20   34479.58 545138.301
+[1] TRUE
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for single node is
+            [,1]       [,2]        [,3]        [,4]      [,5]
+[1,] 1067839.601   7251.335   20889.152  -15638.198  51151.11
+[2,]    7251.335 953505.997  -85377.192   94664.085  49058.09
+[3,]   20889.152 -85377.192 1211914.618   -1997.962 -27784.42
+[4,]  -15638.198  94664.085   -1997.962 1086578.020 -17880.22
+[5,]   51151.115  49058.088  -27784.423  -17880.218 813234.15
+            [,1]       [,2]        [,3]        [,4]      [,5]
+[1,] 1067839.601   7251.335   20889.152  -15638.198  51151.11
+[2,]    7251.335 953505.997  -85377.192   94664.085  49058.09
+[3,]   20889.152 -85377.192 1211914.618   -1997.962 -27784.42
+[4,]  -15638.198  94664.085   -1997.962 1086578.020 -17880.22
+[5,]   51151.115  49058.088  -27784.423  -17880.218 813234.15
+[1] TRUE
