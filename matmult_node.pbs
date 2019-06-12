@@ -1,0 +1,32 @@
+#!/bin/bash
+#PBS -N matmult_node
+#PBS -A ccsd
+#PBS -l qos=std,nodes=2:ppn=16,walltime=00:30:00
+#PBS -q batch
+#PBS -W group_list=cades-ccsd
+
+#PBS -M ikarus702@gmail.com
+#PBS -m abe
+#PBS -o matmult_node.o
+#PBS -e matmult_node.e
+
+cd ~/src/my_project/parallel_project
+pwd
+cores_per_r=1
+node_num=$(($PBS_NUM_NODES*$PBS_NUM_PPN))
+echo "$node_num"
+
+## modules can vary on platforms
+module load R
+echo "loaded R"
+module list
+
+## prevent warning when fork is used with MPI
+export OMPI_MCA_mpi_warn_on_fork=0
+export OPENBLAS_NUM_THREADS=1
+
+# An illustration of fine control of R scripts and cores on several nodes
+orterun -np $node_num --map-by node Rscript Matmult_Node.r $node_num > ~/src/my_project/parallel_project/Matmult_Node.rout
+
+exit; 
+
