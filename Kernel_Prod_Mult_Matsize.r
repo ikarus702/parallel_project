@@ -7,13 +7,15 @@ Nnode = as.numeric(args[1])
 
 init.grid()
 
-nrows <- 50
-ncol.cand <- 500*c(1,2,3,4,5,10)
+nrow.cand <- 5000
+ncols <- 5000
+
+bldim <- c(16,16)
 
 mn <- 10
 sdd <- 100
 
-bldim <- c(16,16)
+
 ###### AR(2): 2nd-order neighborhood matrix ##############
 
 model2 <- function(dim, xi.val, off.diag){
@@ -51,16 +53,17 @@ model3 <- function(dim,xi.val,off.min, off.max){
 	}
 	return(prec)
 }
+
+
 i <- 0
-for(ncols in ncol.cand){
+
+for(nrows in nrow.cand){
 
 i <- i+1
 
 if(comm.rank()==0){
 
 Z <- matrix(rnorm(n=nrows*ncols,mean=mn,sd=sdd),nrow=nrows,ncol=ncols)
-
-
 
 #Gamma <- diag(round(runif(n=ncols, 0.1, 10),2))
 #Gamma[upper.tri(Gamma)] <- round(runif(n=(ncols*(ncols-1)/2),1,10),2)
@@ -74,7 +77,6 @@ Z <-NULL
 Omega <- NULL
 
 }
-
 ptm <- proc.time()
 
 dZ <-as.ddmatrix(x=Z,bldim=bldim)
@@ -109,31 +111,13 @@ if(i==1){
         mpi.time <- rbind(mpi.time, reduce(proc.time()-ptm)/Nnode)
 }
 
-if(comm.rank()==0){
-
-cat("processing time for single node is\n")
- ptm1 <- proc.time()
- r_K <- Z%*%Omega%*%t(Z)
-  
- print(pbd_K[1:5,1:5])
- print(r_K[1:5,1:5])
  
-if(i==1){
-	single.time <- proc.time()-ptm1
-
-}else{
-
-        single.time <- rbind(single.time, proc.time()-ptm1)
-}
 
 
- print(all.equal(pbd_K,r_K))
-}
+
 
 }
-
 if(comm.rank()==0){
-
-  save.image("~/src/my_project/parallel_project/Comp_Kernel_Prod_Col.RData")
+  save.image("~/src/my_project/parallel_project/Comp_Kernel_Prod_Row.RData")
 }
 finalize()

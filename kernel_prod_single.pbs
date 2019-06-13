@@ -1,14 +1,14 @@
 #!/bin/bash
-#PBS -N kernel_chol
+#PBS -N kernel_prod_single
 #PBS -A ccsd
-#PBS -l qos=std,nodes=4:ppn=4,walltime=00:30:00
+#PBS -l qos=std,nodes=1:ppn=1,walltime=00:30:00
 #PBS -q batch
 #PBS -W group_list=cades-ccsd
 
 #PBS -M ikarus702@gmail.com
 #PBS -m abe
-#PBS -o kernel_chol.o
-#PBS -e kernel_chol.e
+#PBS -o kernel_prod_single.o
+#PBS -e kernel_prod_single.e
 
 cd ~/src/my_project/parallel_project
 pwd
@@ -25,7 +25,7 @@ export OMPI_MCA_mpi_warn_on_fork=0
 export OPENBLAS_NUM_THREADS=1
 
 # An illustration of fine control of R scripts and cores on several nodes
-orterun -np $node_num --map-by node Rscript Kernel_Mult.r $node_num > ~/src/my_project/parallel_project/Kernel_Mult.rout
+Rscript Kernel_Prod_Single.r $node_num > ~/src/my_project/parallel_project/Kernel_Prod_Single.rout
 
 exit; 
 

@@ -7,13 +7,13 @@ Nnode = as.numeric(args[1])
 
 init.grid()
 
-nrows <- 50
-ncol.cand <- 200*c(1:5)
+nrows <- 500
+ncol.cand <- 500*c(1,2,3,4,5,10)
 
 mn <- 10
 sdd <- 100
 
-bldim <- c(4,4)
+bldim <- c(32,32)
 ###### AR(2): 2nd-order neighborhood matrix ##############
 
 model2 <- function(dim, xi.val, off.diag){
