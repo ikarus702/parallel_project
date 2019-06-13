@@ -1,0 +1,4818 @@
+Using 4x4 for the default grid size
+
+[1] TRUE
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+ 32.631    user  system elapsed 
+   user  system elapsed 
+ 32.630   0.015  32.642    user  system elapsed 
+ 32.637   0.008  32.642 
+  0.016  32.643 
+ 32.634   0.010  32.641 
+
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+ 32.633   0.014  32.643 
+   user  system elapsed 
+ 32.637   0.009  32.643 
+   user  system elapsed 
+ 32.634   0.013  32.642 
+   user  system elapsed 
+ 32.635   0.011  32.642 
+   user  system elapsed 
+   user  system elapsed 
+ 32.638   0.008  32.644 
+   user  system elapsed 
+ 32.636   0.010  32.643 
+   user  system elapsed 
+ 32.631   0.015  32.643 
+ 32.631   0.015  32.643 
+   user  system elapsed 
+ 32.627   0.022  32.645 
+   user  system elapsed 
+ 32.636   0.011  32.644 
+   user  system elapsed 
+ 32.631   0.016  32.645 
+   user  system elapsed 
+  0.517   0.014   0.531 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.450   0.004   0.455 
+   user  system elapsed 
+  0.451   0.003   0.455 
+   user  system elapsed 
+  0.451   0.003   0.455 
+   user  system elapsed 
+  0.451   0.004   0.455 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.450   0.005   0.455 
+   user  system elapsed 
+  0.452   0.003   0.455 
+   user  system elapsed 
+  0.454   0.002   0.455 
+  0.452   0.003   0.455 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.453    user  system elapsed 
+  0.454   0.002   0.456 
+   user  system elapsed 
+  0.454   0.002   0.456 
+  0.003   0.456 
+  0.454   0.002   0.456 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.455   0.001   0.457 
+   user  system elapsed 
+  0.455   0.002   0.457    user  system elapsed 
+  0.454   0.003   0.457 
+   user  system elapsed 
+  0.452   0.004   0.457 
+
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.451   0.000   0.451 
+   user  system elapsed 
+  0.451   0.000   0.451 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.451    user  system elapsed 
+  0.451   0.000   0.451 
+  0.000   0.452 
+   user  system elapsed 
+   user  system elapsed 
+  0.449   0.003   0.452 
+  0.451   0.001   0.452 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.452   0.000   0.452 
+   user  system elapsed 
+  0.452   0.000   0.452 
+   user  system elapsed 
+  0.450   0.003    user  system elapsed 
+  0.451   0.002   0.453 
+  0.453 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.451   0.002   0.453    user  system elapsed 
+  0.450   0.003   0.453 
+
+   user  system elapsed 
+  0.453   0.000   0.454 
+   user  system elapsed 
+  0.446   0.007   0.453 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.453   0.001   0.453 
+   user  system elapsed 
+  0.452   0.001   0.454 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.447   0.001   0.447 
+   user  system elapsed 
+  0.446   0.001   0.447 
+   user  system elapsed 
+  0.443   0.004   0.448 
+   user  system elapsed 
+  0.444   0.003   0.447 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.445   0.002   0.448 
+   user  system elapsed 
+  0.446   0.001   0.447 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.449   0.000   0.448    user  system elapsed 
+  0.449   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.446   0.003   0.448 
+
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.445   0.004   0.449 
+  0.448   0.002   0.449 
+   user  system elapsed 
+  0.449   0.000    user  system elapsed 
+  0.449   0.000   0.449 
+  0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448   0.001   0.449 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.449   0.000   0.448 
+   user  system elapsed 
+  0.449   0.000   0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+   user  system elapsed 
+  0.449   0.000   0.449 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+  0.450   0.000   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   0.45    user  system elapsed 
+   0.45    0.00    user  system elapsed 
+   0.45    0.00    0.45 
+   0.00    0.45 
+   user  system elapsed 
+   0.45    0.00    0.45 
+   0.45 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.450   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.450   0.000   0.449    user  system elapsed 
+   0.45    0.00    user  system elapsed 
+   0.45    0.00    0.45 
+   0.45 
+   user  system elapsed 
+   0.45    0.00    0.45 
+
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.450   0.000   0.451 
+   user  system elapsed 
+   0.45    0.00    0.45 
+   user  system elapsed 
+  0.450   0.000   0.451 
+   user  system elapsed 
+  0.450   0.000   0.451 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.451   0.000   0.451 
+  0.451   0.000   0.451 
+   user  system elapsed 
+  0.452   0.000   0.451 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.451   0.001   0.452 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.449   0.000   0.450 
+   user  system elapsed 
+  0.449   0.000   0.450 
+   user  system elapsed 
+  0.449   0.000   0.450 
+   user  system elapsed 
+  0.450   0.000   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.450   0.000   0.449 
+   user  system elapsed 
+   0.45    0.00    0.45 
+   user  system elapsed 
+   0.45    0.00    user  system elapsed 
+   0.45    0.00    0.45 
+   0.45 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   0.45    0.00    user  system elapsed 
+   0.45    0.00    0.45    user  system elapsed 
+  0.451   0.000   0.450 
+   user  system elapsed 
+   0.45    0.00    0.45 
+
+   0.45 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.451   0.000   0.451 
+  0.450   0.001   0.451 
+   user  system elapsed 
+  0.451   0.000   0.452 
+   user  system elapsed 
+  0.450   0.001   0.451 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.447   0.000   0.446 
+   user  system elapsed 
+  0.446   0.000   0.447 
+   user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.446   0.000   0.447 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.447   0.000    user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.447   0.000   0.448 
+  0.447 
+   user  system elapsed 
+  0.447   0.000   0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.447 
+   user  system elapsed 
+  0.448    user  system elapsed 
+  0.448   0.000   0.448 
+  0.000   0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.449   0.000   0.449 
+  0.449   0.000   0.448 
+   user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+   user  system elapsed 
+  0.446   0.001   0.447 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.446   0.001   0.447 
+  0.447   0.000   0.447 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.447   0.000   0.448 
+   user  system elapsed 
+  0.446   0.001    user  system elapsed 
+  0.446   0.001   0.448 
+  0.448 
+   user  system elapsed 
+  0.446   0.002   0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.448   0.000    user  system elapsed 
+  0.448 
+   user  system elapsed 
+  0.446   0.002   0.448 
+  0.447   0.001   0.448 
+  0.445   0.003   0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.449   0.000   0.449    user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+
+   user  system elapsed 
+  0.449   0.000   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.447   0.001   0.448 
+   user  system elapsed 
+  0.446   0.002   0.448 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.447   0.001   0.448 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.448 
+  0.448   0.000   0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.447   0.002    user  system elapsed 
+  0.449    user  system elapsed 
+   user  system elapsed 
+  0.450   0.000   0.449 
+  0.000   0.449 
+  0.449 
+  0.445   0.004   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.449   0.001    user  system elapsed 
+   user  system elapsed 
+  0.449   0.001   0.450 
+   user  system elapsed 
+  0.446   0.004   0.450 
+  0.450 
+   0.45    0.00    0.45 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448    user  system elapsed 
+  0.449   0.000    user  system elapsed 
+  0.448   0.000   0.449 
+  0.449 
+  0.000   0.448 
+   user  system elapsed 
+  0.449   0.000   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.449    user  system elapsed 
+  0.449   0.000    user  system elapsed 
+  0.449   0.000   0.450 
+  0.000   0.450 
+  0.449   0.000   0.449 
+  0.450 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   0.45    0.00    0.45    user  system elapsed 
+  0.451    user  system elapsed 
+   0.45    0.00    0.45    user  system elapsed 
+   0.45    0.00    0.45 
+
+  0.000   0.450 
+
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   0.45    0.00    0.45 
+   user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.001   0.450 
+   user  system elapsed 
+  0.448   0.001   0.450 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+   0.45    0.00    0.45 
+   user  system elapsed 
+   0.45    0.00    0.45 
+   user  system elapsed 
+  0.450   0.000   0.449 
+   0.45    0.00    0.45 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.451   0.000   0.450 
+   user  system elapsed 
+   0.45    0.00    0.45 
+   user  system elapsed 
+   0.45    0.00    user  system elapsed 
+  0.451   0.000   0.450 
+   0.45 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.451   0.000   0.452 
+  0.451   0.000   0.451 
+   user  system elapsed 
+  0.452   0.000   0.452 
+   user  system elapsed 
+  0.451   0.001   0.451 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.448   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.449    user  system elapsed 
+  0.449    user  system elapsed 
+  0.449   0.000   0.449 
+  0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.450 
+  0.000   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.450   0.000   0.449 
+   user  system elapsed 
+   0.45    0.00    0.45 
+   user  system elapsed 
+   0.45    0.00    0.45 
+   user  system elapsed 
+   0.45    0.00    0.45 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.451   0.000   0.450 
+  0.451   0.000   0.450 
+   user  system elapsed 
+   0.45    0.00    0.45 
+   user  system elapsed 
+  0.451   0.000   0.450 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448   0.000   0.447 
+   user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.447   0.000   0.447 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448    user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+   user  system elapsed 
+  0.449   0.000   0.448 
+  0.000   0.448 
+  0.448   0.000   0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   0.45    0.00    user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.450   0.000   0.449 
+   0.45 
+   user  system elapsed 
+   0.45    0.00    0.45 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.448   0.000   0.447 
+   user  system elapsed 
+  0.447   0.000   0.447 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448    user  system elapsed 
+  0.448   0.000    user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.447   0.000   0.448 
+  0.000   0.448 
+  0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.449   0.000    user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+  0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.450   0.000   0.449 
+   user  system elapsed 
+  0.450   0.000   0.449 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.450   0.000   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448   0.000    user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.448   0.000   0.447 
+   user  system elapsed 
+  0.448   0.000   0.447 
+  0.447 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.449   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.448 
+  0.449   0.000   0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.449   0.000    user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.448   0.000   0.449 
+   user  system elapsed 
+  0.448   0.000   0.449 
+  0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.449    user  system elapsed 
+   0.45    0.00    0.45    user  system elapsed 
+  0.450   0.000   0.449 
+   user  system elapsed 
+   0.45    0.00    0.45 
+
+  0.000   0.450 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.448   0.448   0.000   0.448 
+  0.000   0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.448   0.000   0.449 
+   user  system elapsed 
+  0.448   0.000   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+   0.45    0.00    user  system elapsed 
+   0.45    0.00    0.45 
+   0.45    0.00    0.45 
+   0.45 
+   user  system elapsed 
+   0.45    0.00    0.45 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.447   0.000   0.447 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.447   0.000    user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.447   0.000   0.448 
+  0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed    user  system elapsed 
+  0.448    user  system elapsed 
+  0.448    user  system elapsed 
+  0.448   0.000   0.449 
+  0.000   0.449 
+
+  0.448   0.000   0.449 
+  0.000   0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.450   0.000   0.449 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.449   0.000   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.449   0.000   0.449    user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.448 
+  0.449   0.000   0.449 
+
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.450   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.450   0.000    user  system elapsed 
+  0.449   0.000   0.449 
+  0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+   0.45    0.00    0.45    user  system elapsed 
+  0.451   0.000   0.450 
+  0.451   0.000   0.450 
+
+   user  system elapsed 
+   0.45    0.00    0.45 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.447   0.000   0.447 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.448   0.000   0.447 
+   user  system elapsed 
+  0.448   0.000   0.447 
+   user  system elapsed 
+  0.447   0.000   0.447 
+  0.447   0.000   0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448    user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+   user  system elapsed 
+  0.448   0.000   0.448 
+  0.000   0.448 
+  0.448   0.000   0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449    user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.447   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.447   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.447 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448   0.000    user  system elapsed 
+  0.449   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+  0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449    user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+  0.000   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   0.45    0.00    user  system elapsed 
+   user  system elapsed 
+  0.450   0.000   0.449 
+   0.45 
+   user  system elapsed 
+   0.45    0.00    0.45 
+   0.45    0.00    0.45 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.455   0.000   0.454 
+   user  system elapsed 
+  0.454   0.000   0.455 
+   user  system elapsed 
+  0.454   0.000   0.455 
+   user  system elapsed 
+  0.454   0.000   0.454 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.455   0.000   0.455 
+   user  system elapsed 
+  0.455    user  system elapsed 
+  0.455   0.000   0.455 
+  0.000   0.455 
+   user  system elapsed 
+  0.454   0.001   0.456 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system    user  system elapsed 
+  0.456    user  system elapsed 
+  0.456   0.000   0.455 
+  0.456   0.000   0.456 
+elapsed 
+  0.456   0.000   0.456 
+  0.000   0.456 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAtem elapsed 
+  0.283   0.001   0.283 
+   user  system elapsed 
+  0.283   0.000   0.283 
+   user  system elapsed 
+  0.283   0.000   0.284 
+   user  system elapsed 
+  0.283   0.000   0.284 
+   user  system elapsed 
+  0.283   0.000   0.283 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.281   0.000   0.280 
+   user  system elapsed 
+  0.280   0.000   0.281 
+   user  system elapsed 
+  0.281   0.000   0.281 
+   user  system elapsed 
+   0.28    0.00    0.28 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.280   0.001   0.281 
+  0.281   0.000   0.281 
+   user  system elapsed 
+  0.281   0.000   0.281 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+elapsed 
+  0.281   0.000   0.282 
+   user  system elapsed 
+  0.281   0.000   0.281 
+   user  system elapsed 
+   user  system elapsed 
+  0.281   0.000   0.281 
+  0.282   0.000   0.282 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.282    user  system elapsed 
+  0.282    user  system elapsed 
+  0.283   0.000   0.283 
+   user  system elapsed 
+  0.282   0.000    user  system elapsed 
+  0.282   0.000   0.283 
+  0.000   0.282 
+  0.000   0.282 
+  0.282 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.285   0.000   0.285 
+   user  system elapsed 
+  0.285   0.000   0.285 
+   user  system elapsed 
+  0.285   0.000   0.285 
+   user  system elapsed 
+  0.285   0.000   0.285 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.286   0.000   0.286 
+  0.286   0.000   0.286 
+   user  system elapsed 
+  0.286   0.000   0.286 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.286   0.000   0.286 
+   user  system elapsed 
+  0.286   0.000   0.286 
+   user  system elapsed 
+  0.286   0.000   0.287 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.287   0.000   0.287 
+   user  system elapsed 
+  0.287   0.000   0.287 
+   user  system elapsed 
+  0.287   0.000   0.287 
+   user  system elapsed 
+  0.287   0.000   0.287 
+   user  system elapsed 
+  0.287   0.000   0.287 
+   user  system elapsed 
+  0.287   0.000   0.287 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.284   0.000   0.283 
+   user  system elapsed 
+  0.283   0.000   0.283 
+   user  system elapsed 
+  0.284   0.000   0.284 
+   user  system elapsed 
+  0.284   0.000   0.284 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed    user  system elapsed 
+  0.284   0.000   0.284 
+  0.284   0.000   0.284 
+
+   user  system elapsed 
+  0.284   0.000   0.284 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.285   0.000   0.285 
+  0.284   0.000   0.285 
+   user  system elapsed 
+   user  system elapsed 
+  0.285   0.000   0.284 
+  0.284   0.000   0.284 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.285    user  system elapsed 
+  0.285   0.000   0.285 
+   user  system elapsed 
+  0.285   0.000   0.285 
+   user  syste    0.45 
+
+   0.00    0.45 
+   user  system elapsed 
+  0.450   0.000   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.447   0.000   0.447 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.448 
+  0.448   0.000   0.448 
+  0.448   0.000   0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.449   0.000    user  system elapsed 
+  0.449   0.000   0.449    user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+  0.449 
+
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.450    user  system elapsed 
+  0.449   0.000   0.449 
+  0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.450   0.000   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   0.45    0.00    0.45 
+   user  system elapsed 
+   0.45    0.00    0.45 
+   user  system elapsed 
+   0.45    0.00    0.45 
+   user  system elapsed 
+   0.45    0.00    0.45 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+   user  system elapsed 
+   0.45    0.00    0.45 
+  0.451   0.000   0.450 
+   user  system elapsed 
+   0.45    0.00    0.45 
+   0.45    0.00    0.45 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.451   0.000    user  system elapsed 
+   user  system elapsed 
+  0.452   0.000   0.451 
+  0.451   0.000   0.451 
+   user  system elapsed 
+  0.451   0.000   0.451 
+  0.451 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.452   0.000   0.452 
+  0.451   0.001   0.452 
+   user  system elapsed 
+  0.452   0.000   0.452 
+   user  system elapsed 
+  0.442   0.010   0.452 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.446   0.000   0.447 
+   user  system elapsed 
+  0.446   0.000   0.447 
+   user  system elapsed 
+  0.446   0.000   0.447 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.447   0.000    user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.448   0.000   0.447 
+   user  system elapsed 
+  0.448   0.000   0.447 
+  0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448   0.000    user  system elapsed 
+  0.447 
+   user  system elapsed 
+  0.448   0.000   0.447 
+   user  system elapsed 
+  0.448   0.000   0.448 
+  0.448   0.000   0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.449   0.000   0.449 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.447   0.001   0.447 
+   user  system elapsed 
+  0.447   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.449   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.449 
+   user  system elapsed 
+  0.448   0.000   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.448    user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.448   0.000   0.449 
+  0.449   0.000   0.448 
+  0.000   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.449   0.000    user  system elapsed 
+  0.449   0.000   0.450 
+   user  system elapsed 
+  0.450   0.000   0.449 
+  0.449   0.000   0.450 
+  0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.448   0.000   0.447 
+   user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.448   0.000   0.447 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448   0.000   0.448    user  system elapsed 
+  0.447   0.001   0.448 
+   user  system elapsed 
+  0.449   0.000   0.448    user  system elapsed 
+  0.448   0.000   0.448 
+
+
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.449   0.000   0.449    user  system elapsed 
+  0.449    user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000 
+  0.000   0.449 
+  0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.450   0.000   0.449 
+   0.45    0.00    0.45 
+   user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.450   0.000   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.447   0.000   0.447 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.447   0.000   0.448 
+  0.448   0.000   0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.449 
+   user  system elapsed 
+  0.448   0.000   0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+  0.449   0.000   0.450 
+   user  system elapsed 
+  0.449   0.000   0.450 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448   0.000   0.449 
+   user  system elapsed 
+  0.448   0.000   0.449 
+   user  system elapsed 
+  0.284   0.000   0.285 
+   user  system elapsed 
+  0.280   0.005   0.284 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.286   0.000   0.285 
+   user  system elapsed 
+  0.286   0.000   0.285 
+   user  system elapsed 
+  0.285   0.000   0.286 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.285   0.000    user  system elapsed 
+  0.285 
+  0.286   0.000   0.286 
+   user  system elapsed 
+   user  system elapsed 
+  0.286   0.000   0.286 
+  0.286   0.000   0.286 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.286    user  system elapsed 
+  0.286   0.000   0.286 
+   user  system elapsed 
+   user  system elapsed 
+  0.287   0.000   0.286 
+  0.000   0.286 
+   user  system elapsed 
+  0.286   0.000   0.287 
+  0.286   0.000   0.286 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.295   0.000   0.294 
+   user  system elapsed 
+  0.293   0.001   0.295 
+  0.294   0.000   0.294 
+   user  system elapsed 
+  0.291   0.003   0.295 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed    user  system elapsed 
+  0.295   0.000 
+  0.295   0.000   0.295 
+  0.295 
+   user  system elapsed 
+  0.295   0.000   0.295 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+elapsed 
+  0.295   0.000   0.296 
+   user  system elapsed 
+   user  system elapsed 
+  0.295   0.000   0.295 
+   user  system elapsed 
+  0.296   0.295   0.001   0.295 
+  0.000   0.295 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.296   0.000    user  system elapsed 
+  0.296   0.000   0.296 
+   user  system elapsed 
+  0.296   0.000   0.296    user  system elapsed 
+  0.296   0.000   0.296 
+  0.296 
+
+   user  system elapsed 
+  0.288   0.008   0.296 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.279   0.009   0.288 
+   user  system elapsed 
+  0.288   0.000   0.288 
+   user  system elapsed 
+  0.288   0.000   0.287 
+   user  system elapsed 
+  0.287   0.000   0.287 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.288   0.000   0.288 
+   user  system elapsed 
+  0.284   0.004   0.288 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.285   0.003   0.288 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.288   0.000   0.288    user  system elapsed 
+  0.289   0.000   0.286   0.003   0.289 
+  0.289 
+
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.289   0.000    user  system elapsed 
+   user  system elapsed 
+  0.289   0.000   0.289 
+  0.289   0.000   0.289 
+  0.289 
+  0.289   0.000   0.289 
+   user  system elapsed 
+  0.286   0.003   0.289 
+   user  system elapsed 
+  0.288   0.002   0.290 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.285   0.000   0.285 
+   user  system elapsed 
+  0.285   0.000   0.285 
+   user  system elapsed 
+  0.285   0.000   0.284 
+   user  system elapsed 
+  0.284   0.000   0.284 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.281   0.001   0.285 
+   user  system elapsed 
+  0.285   0.000   0.285 
+   user  system elapsed 
+  0.284   0.002   0.285 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+processing time for pbdDMAT is 
+  0.284   0.000   0.285 
+  0.286   0.000   0.286 
+   user  system elapsed 
+  0.285   0.001   0.286 
+   user  system elapsed 
+  0.286   0.000   0.286 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed    user  system elapsed 
+  0.284 
+  0.286   0.000   0.286 
+   user  system elapsed 
+  0.286   0.000   0.286 
+   user  system elapsed 
+  0.285   0.002   0.286 
+  0.003   0.287 
+   user  system elapsed 
+  0.286   0.000   0.286 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.301   0.000   0.301    user  system elapsed 
+  0.301   0.000   0.301 
+   user  system elapsed 
+  0.300   0.000   0.301 
+   user  system elapsed 
+  0.301   0.000   0.301 
+
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.301   0.000   0.301 
+   user  system elapsed 
+  0.301   0.000   0.301 
+   user  system elapsed 
+  0.301   0.000   0.302 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system    user  system elapsed 
+elapsed 
+  0.302   0.000   0.302 
+  0.302   0.000   0.302 
+   user  system elapsed 
+  0.302   0.000   0.302 
+   user  system elapsed 
+  0.302   0.000   0.302 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.303   0.000   0.302    user  system elapsed 
+  0.302   0.000   0.303 
+   user  system elapsed 
+  0.303   0.000   0.303 
+   user  system elapsed 
+  0.303   0.000   0.303 
+
+   user  system elapsed 
+  0.288   0.015   0.302 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+   user  system elapsed 
+  0.333   0.000   0.333 
+   user  system elapsed 
+  0.331   0.001   0.334 
+  0.333   0.000   0.333 
+  0.333   0.000   0.333 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+processing time for pbdDMAT is 
+  0.334   0.000   0.333 
+   user  system elapsed 
+  0.331   0.003   0.334 
+   user  system elapsed 
+  0.334   0.000   0.334 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+processing time for pbdDMAT is 
+  0.334   0.000   0.334 
+   user  system elapsed 
+  0.335   0.000   0.335 
+   user  system elapsed 
+   user  system elapsed 
+  0.334   0.000   0.334 
+  0.335   0.000   0.334 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.335   0.000    user  system elapsed 
+  0.335   0.000   0.335    user  system elapsed 
+  0.335   0.000   0.335 
+   user  system elapsed 
+  0.334   0.001   0.335 
+   user  system elapsed 
+  0.295   0.040   0.335 
+  0.336 
+
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.283   0.000   0.283 
+   user  system elapsed 
+  0.283   0.000   0.283 
+   user  system elapsed 
+  0.283   0.000   0.283 
+   user  system elapsed 
+  0.283   0.000   0.283 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.284   0.000   0.283 
+   user  system elapsed 
+  0.282   0.002   0.283 
+   user  system elapsed 
+  0.283   0.000   0.284 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system    user  system elapsed 
+  0.284   0.000   0.284 
+elapsed 
+  0.284   0.000   0.284 
+   user  system elapsed 
+  0.284   0.000    user  system elapsed 
+  0.284   0.000   0.284 
+  0.284 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.284   0.000    user  system elapsed 
+  0.285   0.000   0.284 
+   user  system elapsed 
+  0.285   0.000   0.285 
+   user  system elapsed 
+  0.284   0.000   0.285 
+   user  system elapsed 
+  0.284   0.000   0.285 
+  0.285 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.286    user  system elapsed 
+  0.287    user  system elapsed 
+  0.286   0.000   0.000   0.286 
+  0.286   0.000   0.286 
+  0.000   0.286 
+  0.286 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.287   0.000   0.286 
+   user  system elapsed 
+  0.286   0.000   0.286 
+   user  system elapsed 
+  0.286   0.000   0.287 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.287 processing time for pbdDMAT is 
+  0.287   0.000   0.287 
+  0.000   0.287 
+   user  system elapsed 
+  0.287   0.000   0.287    user  system elapsed 
+  0.287 
+  0.000   0.287 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.287   0.000    user  system elapsed 
+  0.288   0.000   0.288 
+   user  system elapsed 
+  0.287   0.000   0.288 
+   user  system elapsed 
+  0.287    user  system elapsed 
+  0.288   0.000   0.287 
+  0.000   0.288 
+  0.288 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.302   0.000   0.302 
+   user  system elapsed 
+  0.302   0.000   0.302 
+   user  system elapsed 
+  0.302   0.000   0.302 
+   user  system elapsed 
+  0.302   0.000   0.302 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.303   0.000   0.302 
+  0.302   0.000   0.302 
+   user  system elapsed 
+  0.303   0.000   0.303 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.303   0.000   0.303 
+   user  system elapsed 
+   user  system elapsed 
+  0.303   0.000   0.303 
+   user  system elapsed 
+  0.303   0.303   0.000   0.303 
+  0.000   0.303 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.304   0.000    user  system elapsed 
+  0.303   0.000   0.304 
+   user  system elapsed 
+  0.304   0.000   0.303    user  system elapsed 
+  0.304   0.000   0.304 
+   user  system elapsed 
+  0.288   0.016   0.304 
+  0.303 
+
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.286   0.000   0.287 
+   user  system elapsed 
+  0.287   0.000    user  system elapsed 
+  0.287   0.000   0.287 
+   user  system elapsed 
+  0.287   0.000   0.287 
+  0.286 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.287   0.000   0.287 
+   user  system elapsed 
+  0.287   0.000   0.287 
+   user  system elapsed 
+  0.287   0.000   0.287 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.288   0.000   0.288 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.288   0.000   0.288 
+   user  system elapsed 
+   user  system elapsed 
+  0.287   0.000   0.288 
+  0.288   0.000   0.287 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.289   0.000   0.288 
+   user  system elapsed 
+  0.288   0.000   0.288 
+  0.288   0.000   0.288 
+   user  system elapsed 
+  0.289   0.000   0.288 
+   user  system elapsed 
+  0.286   0.002   0.288 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.284   0.001   0.284 
+   user  system elapsed 
+  0.284   0.000   0.284 
+   user  system elapsed 
+  0.284   0.000   0.284 
+   user  system elapsed 
+  0.284   0.000   0.285 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.285   0.285   0.000   0.285 
+  0.000   0.285 
+   user  system elapsed 
+  0.285   0.000   0.285 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+elapsed 
+  0.285   0.000   0.285 
+   user  system elapsed 
+  0.286   0.000   0.285 
+   user  system elapsed 
+  0.286   0.000    user  system elapsed 
+  0.286 
+  0.285   0.000   0.286 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.286   0.000    user  system elapsed 
+   user  system elapsed 
+  0.286   0.000   0.286 
+   user  system elapsed 
+  0.286   0.000   0.286 
+   user  system elapsed 
+  0.284   0.001   0.286 
+  0.286 
+  0.286   0.000   0.286 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.283   0.000   0.284 
+   user  system elapsed 
+  0.284   0.000   0.284 
+   user  system elapsed 
+  0.284   0.000   0.284 
+   user  system elapsed 
+  0.284   0.000   0.284 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system processing time for pbdDMAT is 
+elapsed 
+  0.285   0.000   0.285 
+   user  system elapsed 
+  0.285   0.000   0.285 
+   user  system elapsed 
+  0.285   0.000   0.284 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+processing time for pbdDMAT is 
+  0.285   0.000   0.285 
+   user  system elapsed    user  system elapsed 
+  0.285   0.000   0.285 
+   user  system elapsed 
+  0.285   0.000   0.286 
+
+  0.286   0.000   0.285 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.286   0.000   0.286 
+   user  system elapsed 
+  0.285   0.000   0.285 
+   user  system elapsed 
+  0.285   0.000    user  system elapsed 
+  0.285   0.000   0.286 
+  0.285 
+   user  system elapsed 
+  0.286   0.000   0.286 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.285   0.000   0.285 
+   user  system elapsed 
+  0.285   0.000   0.285 
+   user  system elapsed 
+  0.285   0.000   0.285 
+   user  system elapsed 
+  0.285   0.000   0.285 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.285   0.000   0.286 
+   user  system elapsed 
+   user  system elapsed 
+  0.285   0.000   0.286 
+  0.285   0.001   0.285 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system processing time for pbdDMAT is 
+elapsed 
+  0.286   0.000   0.286 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.286   0.000   0.286 
+   user  system elapsed 
+   user  system elapsed 
+  0.283   0.003   0.286 
+  0.2   0.449    user  system elapsed 
+  0.448   0.000   0.449 
+  0.448   0.000   0.449 
+  0.000   0.449 
+
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.449    user  system elapsed 
+   user  system elapsed 
+  0.450   0.000   0.449 
+  0.000   0.449 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.450   0.000   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.450   0.000   0.449 
+   user  system elapsed 
+  0.450   0.000   0.449 
+   user  system elapsed 
+   0.45    0.00    0.45 
+   user  system elapsed 
+  0.450   0.000   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+   user  system elapsed 
+  0.451   0.000   0.450 
+   user  system elapsed 
+   0.45    0.00    0.45 
+   0.45    0.00    0.45 
+   0.45    0.00    0.45 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.451   0.000   0.451    user  system elapsed 
+   user  system elapsed 
+  0.451   0.000   0.451 
+  0.451   0.000   0.451 
+  0.451   0.000   0.451 
+
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.451    user  system elapsed 
+   user  system elapsed 
+  0.452   0.000   0.452 
+  0.000   0.452 
+  0.452   0.000   0.452 
+   user  system elapsed 
+  0.452   0.000   0.452 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448   0.000   0.449 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.449 
+   user  system elapsed 
+  0.448   0.000   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448   0.000   0.449 
+   user  system elapsed 
+  0.448   0.000   0.448    user  system elapsed 
+  0.449   0.000    user  system elapsed 
+  0.449   0.000   0.449 
+
+  0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   0.45    0.00    0.45 
+   user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.450   0.000   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.450   0.000   0.451 
+   user  system elapsed 
+  0.450   0.000   0.451 
+  0.450   0.001   0.450 
+   user  system elapsed 
+  0.450   0.000   0.451 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448    user  system elapsed 
+  0.449   0.000   0.449 
+  0.000   0.449 
+   user  system elapsed 
+  0.447    user  system elapsed 
+  0.444   0.004   0.449 
+  0.002   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.447   0.002   0.450 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.449   0.450   0.000   0.449 
+  0.000   0.449 
+   user  system elapsed 
+  0.446   0.004    user  system elapsed 
+  0.450 
+  0.446   0.003   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.450    user  system elapsed 
+  0.450   0.000    user  system elapsed 
+  0.451   0.000   0.451 
+  0.000   0.451 
+  0.451 
+   user  system elapsed 
+  0.450   0.001   0.451 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.452   0.000   0.451 
+   user  system elapsed 
+  0.450   0.001   0.451 
+   user  system elapsed 
+  0.450   0.001   0.451 
+   user  system elapsed 
+  0.451   0.000   0.451 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.452    user  system elapsed 
+   user  system elapsed 
+  0.452   0.000   0.452 
+   user  system elapsed 
+  0.452   0.000   0.452 
+  0.000   0.451 
+  0.452   0.000   0.452 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.452   0.000   0.453 
+   user  system elapsed 
+  0.453   0.000   0.453    user  system elapsed 
+  0.452   0.001   0.452 
+   user  system elapsed 
+  0.452   0.000   0.453 
+
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.453   0.000   0.453 
+   user  system elapsed 
+  0.452   0.454   0.000   0.453 
+  0.001   0.453 
+   user  system elapsed 
+  0.445   0.009   0.453 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.448   0.000   0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448    user  system elapsed 
+  0.448    user  system elapsed 
+  0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.448 
+  0.000   0.448 
+  0.448   0.000   0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.449   0.000   0.448 
+   user  system elapsed 
+  0.447   0.001   0.449 
+   user  system elapsed 
+  0.448   0.001    user  system elapsed 
+  0.448   0.000   0.448 
+  0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.449   0.000   0.450 
+   user  system elapsed 
+   0.45    0.00    0.45 
+  0.449   0.000   0.450 
+   user  system elapsed 
+  0.449   0.000   0.450 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448   0.000   0.447 
+   user  system elapsed 
+  0.448   0.000   0.447 
+   user  system elapsed 
+  0.448   0.000   0.447 
+   user  system elapsed 
+  0.447   0.000   0.447 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.449    user  system elapsed 
+  0.449   0.000   0.448    user  system elapsed 
+  0.449   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.448 
+  0.000   0.449 
+
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448    user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.448   0.000   0.449 
+  0.000   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.449    user  system elapsed 
+   0.45    0.00    0.45 
+   user elapsed 
+  0.289   0.000   0.288 
+  0.288   0.000   0.288 
+   user  system elapsed 
+  0.287   0.001   0.289 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.287   0.000    user  system elapsed 
+  0.286   0.000   0.287 
+   user  system elapsed 
+  0.286   0.000   0.286 
+   user  system elapsed 
+  0.287   0.000   0.286 
+  0.287 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.287   0.000   0.287 
+   user  system elapsed 
+  0.287   0.000   0.287 
+   user  system elapsed 
+  0.287   0.000   0.287 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system    user  system elapsed 
+  0.288   0.000 elapsed 
+  0.288   0.000   0.287 
+  0.288 
+   user  system elapsed 
+   user  system elapsed 
+  0.287   0.001   0.288 
+  0.286   0.001   0.287 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.288    user  system elapsed 
+  0.288    user  system elapsed 
+  0.286   0.002   0.288 
+   user  system elapsed 
+  0.288   0.000   0.289 
+   user  system elapsed 
+  0.288   0.000   0.288 
+  0.000   0.288 
+  0.000   0.288 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.286   0.000    user  system elapsed 
+  0.285   0.000   0.285 
+   user  system elapsed 
+  0.286   0.000   0.286 
+   user  system elapsed 
+  0.285   0.000   0.286 
+  0.285 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.286   0.000   0.286 
+   user  system elapsed 
+  0.286   0.000   0.286 
+   user  system elapsed 
+  0.286   0.000   0.286 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+processing time for pbdDMAT is 
+  0.286   0.000   0.286 
+   user  system elapsed 
+   user  system elapsed 
+  0.287   0.000   0.287 
+   user  system elapsed 
+  0.287   0.000   0.287 
+  0.286   0.000   0.287 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.287   0.000   0.287 
+   user  system elapsed 
+  0.288   0.000   0.288 
+   user  system elapsed 
+  0.287    user  system elapsed 
+  0.287   0.000   0.287 
+  0.288   0.000   0.287 
+  0.000   0.287 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.288   0.001   0.289    user  system elapsed 
+  0.288   0.000   0.289 
+
+   user  system elapsed 
+  0.289   0.000   0.289 
+   user  system elapsed 
+  0.289   0.000   0.289 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.289   0.000   0.289 
+   user  system elapsed 
+  0.289   0.000   0.289 
+   user  system elapsed 
+  0.289   0.000   0.290 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system    user  system elapsed 
+   0.29 elapsed 
+   0.29    0.00    0.29 
+   0.00    0.29 
+   user  system elapsed 
+   0.29    user  system elapsed 
+   0.29    0.00    0.29 
+   0.00    0.29 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.291    user  system elapsed 
+   0.29    0.00    user  system elapsed 
+  0.291   0.000   0.291 
+   user  system elapsed 
+  0.291   0.000   0.290 
+   user  system elapsed 
+  0.288   0.003   0.291 
+  0.000   0.291 
+   0.29 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.289    user  system elapsed 
+  0.289   0.000   0.289 
+   user  system elapsed 
+  0.287   0.002   0.288 
+   user  system elapsed 
+  0.288   0.000   0.289 
+  0.000   0.288 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.289   0.000   0.288 
+  0.289   0.000   0.289 
+   user  system elapsed 
+  0.289   0.000   0.289 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+processing time for pbdDMAT is 
+  0.290   0.000   0.289 
+   user  system elapsed 
+  0.289   0.000   0.290 
+   user  system elapsed 
+   user  system elapsed 
+  0.289    0.29    0.00    0.29 
+  0.000   0.289 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+   0.29    0.00    user  system elapsed 
+   0.29    0.00    0.29 
+   user  system elapsed 
+   0.29    0.00    0.29 
+  0.289   0.001   0.290 
+   user  system elapsed 
+  0.289   0.001   0.290 
+   0.29 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.286   0.000   0.285 
+   user  system elapsed 
+  0.286   0.000   0.286 
+   user  system elapsed 
+  0.286   0.000   0.286 
+   user  system elapsed 
+  0.285   0.000   0.286 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.287   0.000   0.286 
+   user  system elapsed 
+  0.287   0.000   0.286 
+   user  system elapsed 
+  0.287   0.000   0.287 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.287   0.000   0.286 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.287   0.000   0.287 
+   user  system elapsed 
+  0.287   0.000   0.287 
+   user  system elapsed 
+  0.287   0.000   0.287 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.287   0.000   0.288 
+   user  system elapsed 
+  0.287   0.000   0.287 
+   user  system elapsed 
+  0.288   0.000   0.287 
+   user  system elapsed 
+  0.288   0.000   0.287 
+   user  system elapsed 
+  0.286   0.002   0.287 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.283   0.000    user  system elapsed 
+  0.283   0.000   0.283 
+   user  system elapsed 
+  0.283   0.000   0.283 
+  0.283 
+   user  system elapsed 
+  0.282   0.001   0.283 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.283   0.000   0.283 
+   user  system elapsed 
+  0.283   0.000   0.283 
+   user  system elapsed 
+  0.283   0.000   0.284 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.284   0.000   0.284 
+   user  system elapsed 
+  0.283   0.000   0.284    user  system elapsed 
+  0.284   0.000   0.284 
+
+   user  system elapsed 
+  0.283   0.000   0.284 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+   user  system elapsed 
+  0.284   0.000   0.284 
+   user  system elapsed 
+  0.285   0.000   0.284 
+  0.285   0.000   0.284 
+  0.284   0.000   0.284 
+   user  system elapsed 
+  0.283   0.002   0.284 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.313   0.003    user  system elapsed 
+  0.316   0.000   0.316 
+   user  system elapsed 
+  0.316   0.000   0.316 
+   user  system elapsed 
+  0.316   0.000   0.316 
+  0.316 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.317   0.000   0.317 
+   user  system elapsed 
+  0.317   0.000   0.317 
+   user  system elapsed 
+  0.317   0.000   0.317 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.317    user  system elapsed 
+  0.000   0.317 
+  0.317   0.000   0.317 
+   user  system elapsed 
+  0.317    user  system elapsed 
+  0.318   0.000   0.318 
+  0.000   0.318 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.314   0.004   0.318 
+   user  system elapsed 
+   user  system elapsed 
+  0.318   0.000   0.318 
+   user  system elapsed 
+  0.301   0.018   0.318 
+  0.318   0.000   0.318 
+  0.318   0.000   0.318 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.294    user  system elapsed 
+  0.295   0.000   0.295 
+  0.295   0.000   0.294 
+  0.000   0.295 
+   user  system elapsed 
+  0.290   0.005   0.295 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.295   0.000   0.295 
+   user  system elapsed 
+  0.295   0.000   0.295 
+   user  system elapsed 
+  0.295   0.000   0.295 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.296   0.000   0.296 
+   user  system elapsed 
+  0.296   0.000   0.296 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.296   0.000   0.296 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.297   0.000   0.296 
+  0.297   0.000   0.297 
+   user  system elapsed 
+   user  system elapsed 
+  0.297   0.000   0.297 
+   user  system elapsed 
+  0.297   0.000   0.297 
+  0.297   0.000   0.297 
+   user  system elapsed 
+  0.296   0.000   0.297 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.292   0.000   0.291 
+   user  system elapsed 
+  0.292   0.000   0.291 
+   user  system elapsed 
+  0.291   0.000   0.291 
+   user  system elapsed 
+  0.288   0.003   0.291 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.291   0.000   0.292 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.291   0.001   0.292 
+   user  system elapsed 
+  0.292   0.000   0.292 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.292   0.000   0.292 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.293   0.000   0.292 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.293   0.000   0.293 
+   user  system elapsed 
+  0.293   0.000   0.293 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.293   0.000   0.293 
+   user  system elapsed 
+  0.294   0.000   0.293 
+   user  system elapsed 
+  0.293   0.000    user  system elapsed 
+   user  system elapsed 
+  0.294   0.000   0.294 
+  0.294 
+  0.293   0.000   0.294 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.286   0.000   0.286 
+   user  system elapsed 
+  0.286   0.000   0.286 
+   user  system elapsed 
+  0.286   0.000   0.285 
+   user  system elapsed 
+  0.286   0.000   0.286 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.287   0.000   0.286 
+   user  system elapsed 
+  0.284   0.002   0.286 
+   user  system elapsed 
+  0.287   0.000   0.287 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.287   0.000   0.287 
+   user  system elapsed 
+  0.287   0.000   0.287 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.288   0.000   0.287 
+   user  system elapsed 
+  0.287   0.000   0.288 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.288   0.000   0.288 
+   user  system elapsed 
+  0.288   0.000   0.288 
+   user  system elapsed 
+  0.288   0.000   0.288 
+   user  system elapsed 
+  0.288   0.000   0.288 
+   user  system elapsed 
+  0.288   0.000   0.288 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.284   0.000   0.285 
+   user  system elapsed 
+  0.285   0.000   0.284 
+   user  system elapsed 
+  0.285   0.000   0.285 
+   user  system elapsed 
+  0.285   0.000   0.284 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.286   0.000   0.285 
+   user  system elapsed 
+  0.285   0.000   0.286 
+   user  system elapsed 
+  0.286   0.000   0.285 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.286    user  system elapsed 
+  0.286   0.000   0.286 
+  0.000   0.285 
+   user  system elapsed 
+  0.286   0.000    user  system elapsed 
+  0.286 
+  0.286   0.000   0.286 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.287   0.000   0.286 
+   user  system elapsed 
+  0.287   0.000   0.286 
+   user  system elapsed 
+  0.286   0.000   0.287 
+   user  system elapsed 
+  0.286   0.000   0.287 
+   user  system elapsed 
+  0.286   0.000   0.286 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.285    user  system elapsed 
+  0.284   0.000   0.285 
+   user  system elapsed 
+  0.285   0.000   0.285 
+   user  system elapsed 
+  0.284   0.000   0.285 
+  0.000   0.285 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.285   0.000   0.286 
+   user  system elapsed 
+  0.285   0.000   0.286 
+   user  system elapsed 
+  0.286   0.000   0.285 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.286   0.000   0.286 
+   user  system elapsed 
+   user  system elapsed 
+   user  system elapsed 
+  0.286   0.000   0.286 
+  0.286   0.000   0.286 
+  0.286   0.000   0.286 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.287   0.000    user  system elapsed 
+  0.286    user  system elapsed 
+  0.287   0.000   0.286    user  system elapsed 
+  0.284   0.003   0.286 
+  0.287 
+   user  system elapsed 
+  0.286   0.000   0.286 
+  0.000   0.287 
+
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.283   0.000   0.283 
+   user  system elapsed 
+  0.284   0.000   0.284 
+   user  system elapsed 
+  0.283   0.000   0.283 
+   user  system elapsed 
+  0.283   0.000   0.283 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.283   0.000   0.284 
+   user  system elapsed 
+  0.284   0.000   0.284 
+   user  system elapsed 
+  0.284   0.000   0.283 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system processing time for pbdDMAT is 
+   user  system elapsed 
+  0.284   0.000   0.284 elapsed 
+  0.284   0.000   0.284 
+
+   user  system elapsed 
+   user  system elapsed 
+  0.284   0.000   0.285 
+  0.285   0.000   0.285 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.285    user  system elapsed 
+  0.285   0.000   0.285 
+   user  system elapsed 
+  0.285   0.000   0.285 
+  0.284   0.000   0.285 
+   user  system elapsed 
+  0.280   0.005   0.285 
+  0.000   0.285 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.284   0.000   0.284 
+   user  system elapsed 
+  0.284   0.000   0.284 
+   user  system elapsed 
+  0.284   0.000   0.284 
+   user  system elapsed 
+  0.284   0.000   0.284 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.279   0.005   0.285   0.284   0.000   0.285 
+
+   user  system elapsed 
+  0.282   0.001   0.284 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.284   0.001   0.285 
+   user  system elapsed 
+  0.285   0.000   0.285 
+   user  system elapsed 
+  0.285   0.000   0.285 
+   user  system elapsed 
+  0.280   0.005   0.285 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.285   0.000    user  system elapsed 
+  0.285   0.000   0.285 
+   user  system elapsed 
+  0.285   0.000   0.285 
+  0.286 
+  0.285   0.000   0.285 
+   user  system elapsed 
+  0.282   0.003   0.286 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.286   0.000   0.286 
+   user  system elapsed 
+  0.287   0.000   0.287 
+   user  system elapsed 
+  0.286   0.000   0.287 
+   user  system elapsed 
+  0.286   0.000   0.287 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.287   0.000   0.287 
+   user  system elapsed 
+  0.287   0.000   0.287 
+   user  system elapsed 
+  0.287   0.001   0.288 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.288   0.000 elapsed 
+  0.286   0.002   0.288 
+  0.287 
+   user  system elapsed 
+   user  system elapsed 
+  0.288   0.000   0.288 
+  0.286   0.002   0.288 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.289   0.000   0.288 
+   user  system elapsed 
+  0.288   0.000   0.288 
+   user  system elapsed 
+  0.289    user  system elapsed 
+  0.288   0.000   0.288 
+  0.000   0.288 
+   user  system elapsed 
+  0.288   0.000   0.289 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.286   0.000   0.286 
+   user  system elapsed 
+  0.286   0.000   0.286 
+   user  system elapsed 
+  0.285   0.000   0.286 
+   user  system elapsed 
+  0.286   0.000   0.286 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.286   0.000   0.286 
+   user  system elapsed 
+  0.287   0.000   0.286 
+   user  system elapsed 
+  0.286   0.000   0.287 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapocessing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.449    user  system elapsed 
+  0.450   0.000    user  system elapsed 
+  0.450   0.000   0.449 
+  0.449 
+  0.000   0.449 
+   user  system elapsed 
+  0.450   0.000   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+   0.45    0.00    0.45 
+   0.45    0.00    0.45 
+   user  system elapsed 
+   0.45    0.00    0.45 
+   user  system elapsed 
+   0.45    0.00    0.45 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.447 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448   0.000    user  system elapsed 
+  0.448   0.000   0.449 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.449 
+  0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.449    user  system elapsed 
+   user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+  0.000   0.449 
+  0.450   0.000   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.449   0.000   0.450 
+   user  system elapsed 
+   0.45    0.00    0.45 
+  0.450   0.000   0.449 
+   user  system elapsed 
+   0.45    0.00    0.45 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.449   0.000    user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+  0.449   0.000   0.449 
+  0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.450   0.000   0.449 
+   user  system elapsed 
+  0.450   0.000   0.449 
+   user  system elapsed 
+   0.45    0.00    0.45 
+  0.449   0.001   0.450 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.451    user  system elapsed 
+  0.450   0.000   0.451 
+  0.451   0.000   0.451 
+   user  system elapsed 
+  0.450   0.000   0.451 
+  0.000   0.451 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.447 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.447 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.449    user  system elapsed 
+   user  system elapsed 
+  0.449   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.448 
+  0.000   0.449 
+  0.448   0.000   0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.449    user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+  0.449   0.000   0.449 
+  0.000   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+   0.45    0.00    0.45    0.00    0.45 
+   0.45 
+   user  system elapsed 
+   0.45    0.00    0.45 
+   user  system elapsed 
+   0.45    0.00    0.45 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.447   0.000   0.447 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.447   0.000   0.447    user  system elapsed 
+  0.447   0.000    user  system elapsed 
+  0.447   0.000   0.447 
+   user  system elapsed 
+  0.447   0.000   0.447 
+  0.447 
+
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448    user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.449   0.000   0.448 
+  0.000   0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.449   0.000   0.449    user  system elapsed 
+  0.449    user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+
+  0.000   0.449 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.448 
+   user  system elapsed 
+  0.448   0.000   0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.449   0.000    user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+   user  system elapsed 
+  0.449   0.000   0.449 
+  0.448 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.450   0.000   0.449 
+   user  system elapsed 
+  0.449    user  system elapsed 
+   user  system elapsed 
+  0.449   0.000   0.450 
+  0.000   0.450 
+  0.449   0.000   0.450 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+   0.45    0.00    user  system elapsed 
+   0.45    0.00    0.45 
+   0.45    0.00    0.45 
+   user  system elapsed 
+   0.45    0.00    0.45 
+   0.45 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.449   0.000   0.450 
+   user  system elapsed 
+  0.449   0.000   0.450 
+   user  system elapsed 
+   0.45    0.00    0.45 
+   user  system elapsed 
+  0.449   0.000   0.450 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.450   0.000   0.449 
+   user  system elapsed 
+   0.45    0.00    0.45 
+   user  system elapsed 
+   0.45    0.00    0.45 
+   0.45    0.00    0.45 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.451   0.000   0.450 
+   user  system elapsed 
+  0.451   0.000   0.450 
+   user  system elapsed 
+  0.451   0.000   0.450 
+  0.450   0.000   0.451 
+processing time for pbdDMAime for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+   user  system elapsed 
+  0.286    user  system elapsed 
+  0.286   0.000   0.286 
+  0.000   0.285 
+  0.286   0.000   0.285 
+   user  system elapsed 
+  0.286   0.000   0.285 
+  0.286   0.000   0.286 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.288   0.000   0.288 
+   user  system elapsed 
+  0.288   0.000   0.287 
+   user  system elapsed 
+  0.288   0.000   0.288 
+   user  system elapsed 
+  0.288   0.000   0.287 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.288   0.000   0.289 
+   user  system elapsed 
+  0.289   0.000   0.289 
+   user  system elapsed 
+  0.288   0.000   0.288 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.289   0.000   0.289 
+   user  system elapsed 
+   user  system elapsed 
+  0.288   0.000   0.289 
+   user  system elapsed 
+  0.289   0.000   0.289 
+  0.289   0.000   0.289 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.288   0.001    user  system elapsed 
+  0.290   0.000   0.289   0.289   0.000   0.290 
+   user  system elapsed 
+  0.290   0.000   0.289 
+  0.290 
+
+   user  system elapsed 
+  0.284   0.005   0.289 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.287    user  system elapsed 
+  0.287   0.000   0.287 
+   user  system elapsed 
+  0.287   0.000   0.288 
+   user  system elapsed 
+  0.287   0.000   0.287 
+  0.001   0.287 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.288    user  system elapsed 
+  0.000   0.288 
+  0.288   0.000   0.288 
+   user  system elapsed 
+  0.288   0.000   0.289 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+processing time for pbdDMAT is 
+  0.288   0.000   0.288 
+   user  system elapsed 
+  0.289   0.000   0.288 
+   user  system elapsed 
+   user  system elapsed 
+  0.289   0.000   0.289 
+  0.288   0.000   0.289 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+   user  system elapsed 
+  0.289   0.000   0.289 
+   user  system elapsed 
+  0.283   0.006   0.289 
+  0.289   0.000   0.289 
+   user  system elapsed 
+  0.289   0.000   0.289 
+  0.289   0.000   0.289 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   0.29    0.00    0.29 
+   user  system elapsed 
+  0.288   0.001   0.290 
+   user  system elapsed 
+   0.29    0.00    0.29 
+   user  system elapsed 
+  0.289   0.000   0.289 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.291   0.000   0.290 
+   user  system elapsed 
+   0.29    0.00    0.29 
+   user  system elapsed 
+  0.290   0.000   0.291 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.291   0.000   0.291 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.291   0.000   0.290 
+   user  system elapsed 
+   user  system elapsed 
+  0.291   0.000   0.291 
+  0.291   0.000   0.291 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.292    user  system elapsed 
+  0.291   0.000   0.292 
+   user  system elapsed 
+  0.291   0.000   0.291 
+  0.291   0.000   0.291 
+  0.000   0.291 
+   user  system elapsed 
+  0.285   0.006   0.291 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.285   0.000   0.284 
+   user  system elapsed 
+  0.284   0.000   0.284 
+   user  system elapsed 
+  0.284   0.000   0.284 
+   user  system elapsed 
+  0.285   0.000   0.284 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.285   0.000   0.285 
+   user  system elapsed 
+  0.285   0.000    user  system elapsed   0.285 
+
+  0.283   0.001   0.285 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.286   0.000   0.286 
+  0.286   0.000   0.285 
+   user  system elapsed 
+   user  system elapsed 
+  0.284   0.001   0.285   0.286   0.000   0.285 
+
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.286    user  system elapsed 
+  0.286   0.000    user  system elapsed 
+  0.285   0.000   0.286 
+  0.000   0.286 
+  0.286 
+   user  system elapsed 
+  0.286   0.000    user  system elapsed 
+  0.283   0.003   0.286 
+  0.286 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.322   0.000   0.322 
+   user  system elapsed 
+  0.322   0.000   0.322 
+   user  system elapsed 
+  0.322   0.000   0.322 
+   user  system elapsed 
+  0.322   0.000   0.322 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.322   0.000   0.322 
+   user  system processing time for pbdDMAT is 
+elapsed 
+  0.322   0.000   0.322 
+   user  system elapsed 
+  0.323   0.000   0.323 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.323   0.000   0.323 
+  0.323   0.000   0.323 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.323   0.000   0.323 
+   user  system elapsed 
+  0.323   0.000   0.323 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.324   0.000    user  system elapsed 
+  0.323   0.001   0.324 
+  0.325 
+   user  system elapsed 
+   user  system elapsed 
+  0.321   0.003   0.324 
+  0.306   0.018   0.324 
+   user  system elapsed 
+  0.324   0.000   0.324 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.294   0.000   0.294 
+   user  system elapsed 
+  0.294   0.000   0.294 
+   user  system elapsed 
+  0.294   0.000   0.294 
+   user  system elapsed 
+  0.292   0.002   0.294 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.295   0.000   0.295 
+   user  system elapsed 
+  0.294   0.000   0.295 
+   user  system elapsed 
+  0.295   0.000   0.294 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.295   0.000   0.295 
+processing time for pbdDMAT is 
+  0.295   0.000   0.295 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.296   0.000   0.295 
+   user  system elapsed 
+  0.295   0.001   0.296 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.296   0.000   0.296    user  system elapsed 
+  0.296   0.000 
+  0.296 
+   user  system elapsed 
+   user  system elapsed 
+  0.296   0.000   0.296 
+   user  system elapsed 
+  0.297   0.000   0.296 
+  0.297   0.000   0.297 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.289   0.001   0.290 
+   user  system elapsed 
+  0.290   0.000   0.289 
+   user  system elapsed 
+  0.290   0.000   0.289 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+processing time for pbdDMAT is 
+   0.29    0.00    0.29 
+   user  system elapsed 
+   0.29    0.00    0.29 
+   user  system elapsed 
+  0.291   0.000   0.290 
+   user  system elapsed 
+  0.289   0.002   0.291 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system    user  system elapsed 
+  0.291 elapsed 
+  0.290   0.000   0.291 
+  0.000   0.291 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.291   0.000   0.291 
+   user  system elapsed 
+  0.291   0.000   0.291 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.291   0.000   0.292 
+   user  system elapsed 
+  0.291   0.000   0.292 
+   user  system elapsed 
+  0.292   0.000   0.292 
+  0.291   0.000   0.292 
+   user  system elapsed 
+  0.292   0.000   0.292 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.313   0.004   0.317 
+   user  system elapsed 
+  0.316   0.000   0.317 
+   user  system elapsed 
+  0.317   0.000   0.317 
+   user  system elapsed 
+  0.316   0.000   0.316 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.317   0.000   0.317 
+   user  system elapsed 
+  0.317   0.000   0.317 
+   user  system elapsed 
+  0.317   0.000   0.317 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.318   0.000   0.317   0.000   0.318 
+processing time for pbdDMAT is 
+  0.318 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.317   0.000   0.317 
+   user  system elapsed 
+  0.318   0.000   0.317 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+   user  system elapsed 
+  0.318   0.318   0.000   0.319 
+   user  system elapsed 
+  0.318   0.000   0.318 
+  0.317   0.001   0.318 
+  0.000   0.318 
+   user  system elapsed 
+  0.318   0.000   0.318 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   0.33    0.00    0.33 
+   user  system elapsed 
+  0.330   0.000   0.329 
+   user  system elapsed 
+  0.330   0.000   0.329 
+   user  system elapsed 
+   0.33    0.00    0.33 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.330   0.000   0.331 
+   user  system elapsed 
+   0.33    0.00    0.33 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.331   0.000   0.331 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.332   0.000   0.331 
+   user  system elapsed 
+  0.330   0.000   0.332 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.332   0.000   0.332 
+   user  system elapsed 
+  0.332   0.000   0.332 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system   0.333   0.000   0.332 
+elapsed 
+  0.333   0.000   0.333 
+   user  system elapsed 
+  0.333   0.000    user  system elapsed 
+  0.333   0.000   0.333 
+  0.333 
+   user  system elapsed 
+  0.331   0.001   0.333 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.373   0.000   0.373 
+   user  system elapsed 
+  0.373   0.000   0.373 
+   user  system elapsed 
+  0.373   0.000   0.373 
+   user  system elapsed 
+  0.373   0.000   0.373 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.373   0.000   0.373 
+   user  system elapsed 
+  0.374   0.000   0.374 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.374   0.000   0.374 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.375   0.000   0.374 
+   user  system elapsed 
+  0.375   0.000   0.375 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.375   0.000   0.375 
+   user  system elapsed 
+  0.374   0.001   0.375 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed    user  system elapsed 
+  0.376 
+  0.375   0.001   0.376 
+  0.000   0.377 
+   user  system elapsed 
+   user  system elapsed 
+  0.376   0.000   0.376 
+  0.376   0.000   0.376 
+   user  system elapsed 
+  0.374   0.002   0.376 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.396   0.000   0.396 
+   user  system elapsed 
+  0.396   0.000   0.396 
+   user  system elapsed 
+   user  system elapsed 
+  0.396   0.000   0.396 
+  0.395   0.001   0.396 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.396   0.000   0.396 
+   user  system elapsed 
+  0.396   0.000   0.396 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.397   0.000   0.397 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.397   0.000   0.397 
+   user  system elapsed 
+  0.397   0.000   0.398 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.398   0.000   0.398 
+   user  system elapsed 
+  0.398   0.000   0.398 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.399   0.000   0.399 
+  0.399   0.000   0.399 
+   user  system elapsed 
+  0.399   0.000    user  system elapsed 
+  0.399   0.000   0.399 
+   user  system elapsed 
+  0.382   0.017   0.399 
+  0.399 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.363   0.000   0.363 
+   user  system elapsed 
+  0.363   0.000   0.362 
+   user  system elapsed 
+  0.362   0.000   0.363 
+   user  system elapsed 
+  0.363   0.000   0.363 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.363   0.000   0.363 
+  0.363   0.000   0.363 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.364   0.000   0.363 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.364   0.000   0.364 
+   user  system elapsed 
+  0.364   0.000   0.364 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.364   0.000   0.364 
+   user  system elapsed 
+  0.365   0.000   0.365 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.366   0.000   0.366 
+   user  system elapsed 
+  0.366   0.000   0.365 
+   user  system elapsed 
+  0.366   0.000   0.366 
+   user  system elapsed 
+  0.365   0.000   0.366 
+   user  system elapsed 
+  0.366   0.000   0.366 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.375   0.000   0.375 
+   user  system elapsed 
+  0.375   0.000   0.375 
+   user  system elapsed 
+  0.375   0.000   0.376 
+   user  system elapsed 
+  0.375   0.000   0.376 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.376   0.000   0.376 
+   user  system elapsed 
+  0.376   0.000   0.376 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.377   0.000   0.377 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.377   0.000   0.377 
+   user  system elapsed 
+  0.377   0.000   0.378 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.378   0.000   0.378 
+   user  system elapsed 
+  0.378   0.000   0.378 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.379   0.000   0.379 
+  0.378   0.000   0.378 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.378    user  system elapsed 
+  0.378   0.001   0.379 
+  0.378   0.001   0.379 
+  0.000   0.379 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.378   0.000   0.377 
+   user  system elapsed 
+  0.378   0.000   0.377 
+   user  system elapsed 
+  0.377   0.000   0.378 
+   user  system elapsed 
+  0.378   0.000   0.378 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.378   0.000   0.378 
+   user  system elapsed 
+  0.379   0.000   0.378 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.378   0.000   0.378 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.379   0.000   0.379 
+   user  system elapsed 
+  0.379   0.000   0.379 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.379   0.000   0.379 
+   user  system elapsed 
+  0.379   0.000   0.379 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.380   0.000   0.381 
+   user  system elapsed 
+  0.381   0.000   0.380 
+   user  system elapsed 
+  0.381   0.001   0.381    user  system elapsed 
+  0.379   0.001   0.380 
+
+   user  system elapsed 
+  0.381   0.000   0.381 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.396   0.000   0.396 
+   user  system elapsed 
+  0.396   0.000   0.396 
+   user  system elapsed 
+  0.395   0.001   0.396 
+   user  system elapsed 
+  0.396   0.000   0.396 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.396   0.000   0.396 
+   user  system elapsed 
+  0.396   0.000   0.396 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.396   0.001   0.397 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.398   0.000   0.397 
+  0.398   0.000   0.398 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.398   0.000   0.398 
+   user  system elapsed 
+  0.398   0.000   0.398 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.400     0.4     0.0     0.4 
+  0.000   0.399 
+   user  system elapsed 
+  0.399   0.000   0.399 
+   user  system elapsed 
+    0.4     0.0     0.4 
+   user  system elapsed 
+  0.396   0.003   0.399 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.282   0.000    user  system elapsed 
+  0.281   0.001   0.282 
+   user  system elapsed 
+  0.282   0.000   0.282 
+   user  system elapsed 
+  0.282   0.000   0.282 
+  0.283 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.283   0.000   0.282 
+   user  system elapsed 
+  0.283   0.000   0.283 
+   user  system elapsed 
+  0.282   0.001   0.283 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.283   0.000   0.283 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.282   0.001   0.284 
+  0.281   0.002   0.283 
+   user  system elapsed 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+  0.284   0.000   0.283 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.284   0.000   0.283    user  system elapsed 
+  0.284   0.000   0.284 
+   user  system elapsed 
+  0.284   0.000   0.284 
+   user  system elapsed 
+   user  system elapsed 
+  0.284   0.000   0.284 
+
+  0.284   0.000   0.284 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.284   0.000   0.285 
+   user  system elapsed 
+  0.284   0.000   0.284 
+   user  system elapsed 
+  0.284   0.000   0.284 
+   user  system elapsed 
+  0.284   0.000   0.284 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.285   0.000   0.284 
+   user  system elapsed 
+  0.285   0.000   0.285 
+   user  system elapsed 
+  0.285   0.000   0.284 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.285 processing time for pbdDMAT is 
+   user  system elapsed 
+  0.285   0.000   0.285 
+  0.000   0.286 
+   user  system elapsed 
+  0.285   0.000   0.285 
+   user  system elapsed 
+processing time for pbdDMAT is 
+  0.280   0.004   0.285 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.286    user  system elapsed 
+  0.286   0.000    user  system elapsed 
+  0.286   0.000   0.286 
+   user  system elapsed 
+  0.286   0.000   0.286 
+   user  system elapsed 
+  0.286   0.000   0.286   0.000   0.286 
+  0.286 
+
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.281   0.000   0.281 
+   user  system elapsed 
+  0.282   0.000   0.282 
+   user  system elapsed 
+  0.280   0.001   0.282 
+   user  system elapsed 
+  0.282   0.000   0.282 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.282   0.000   0.282 
+   user  system elapsed 
+  0.282   0.000   0.282 
+   user  system elapsed 
+  0.282   0.000   0.282 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.282 processing time for pbdDMAT is 
+  0.000   0.283 
+   user  system elapsed 
+   user  system elapsed    user  system elapsed 
+  0.283   0.000   0.283 
+  0.283   0.000   0.282 
+
+  0.282   0.001   0.283 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system    user  system elapsed 
+  0.283   0.000   0.284 
+   user  system elapsed 
+  0.284   0.000   0.283 
+   user  system elapsed 
+  0.284   0.000   0.284 
+elapsed 
+  0.283   0.000   0.283 
+   user  system elapsed 
+  0.279   0.004   0.283 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.281    user  system elapsed 
+  0.281   0.000    user  system elapsed 
+   0.28    0.00    0.28   0.281 
+   0.28    0.00    0.28 
+  0.000   0.281 
+
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system processing time for pbdDMAT is 
+elapsed 
+  0.281   0.000   0.281 
+   user  system elapsed 
+  0.281   0.000   0.281 
+   user  system elapsed 
+  0.281   0.000   0.281 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.281   0.000   0.282 
+  0.282   0.000   0.281 
+   user  system elapsed 
+  0.282    user  system elapsed 
+  0.281   0.000   0.282 
+  0.000   0.282 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.282   0.000   0.282 
+   user  system elapsed 
+  0.282   0.000   0.282 
+   user  system elapsed 
+  0.282   0.000   0.282 
+  0.283   0.000   0.283 
+   user  system elapsed 
+  0.277   0.006   0.282 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.282   0.000   0.282    user  system elapsed 
+  0.282   0.000   0.282 
+   user  system elapsed 
+  0.282   0.000   0.282 
+   user  system elapsed 
+  0.282   0.000   0.282 
+
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.282   0.000   0.283 
+   user  system elapsed 
+  0.282   0.000   0.283 
+   user  system elapsed 
+  0.282   0.000   0.282 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.283   0.000   0.283 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.283   0.000   0.283 
+   user  system elapsed 
+  0.283   0.000   0.283 
+   user  system elapsed 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+  0.282   0.001   0.283 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.284   0.000    user  system elapsed 
+  0.284   0.000   0.283 
+  0.284   0.000   0.283 
+   user  system elapsed 
+  0.283   0.000   0.283 
+   user  system elapsed 
+  0.283   0.000   0.283 
+  0.284 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.296    user  system elapsed 
+  0.296   0.000   0.296 
+   user  system elapsed 
+  0.294   0.001   0.296 
+  0.296   0.000   0.296 
+  0.000   0.296 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.296   0.000   0.297 
+   user  system elapsed 
+  0.296   0.000   0.297 
+   user  system elapsed 
+  0.297   0.000   0.297 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.297   0.000   0.297 
+  0.297   0.000   0.297 
+   user  system elapsed 
+   user  system elapsed 
+  0.297   0.000   0.297 
+  0.296   0.000   0.297 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.298   0.000   0.298 
+   user  system elapsed 
+  0.297   0.000   0.297 
+   user  system elapsed 
+  0.298   0.000   0.297 
+   user  system elapsed 
+  0.297   0.001   0.298 
+   user  system elapsed 
+  0.287   0.011   0.297 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.282   0.000   0.282 
+   user  system elapsed 
+  0.282   0.000   0.282 
+   user  system elapsed 
+  0.282   0.000   0.282 
+   user  system elapsed 
+  0.282   0.000   0.282 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.282   0.000   0.283 
+   user  system elapsed 
+  0.282   0.000   0.283 
+   user  system elapsed 
+  0.283   0.000   0.282 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.283   0.000   0.283 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.283   0.000   0.283 
+   user  system elapsed 
+  0.283   0.000   0.283 
+   user  system elapsed 
+  0.283   0.000 processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+  0.284 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.284   0.000   0.283    user  system elapsed 
+  0.283   0.000   0.283 
+   user  system elapsed 
+  0.284    user  system elapsed 
+  0.284   0.000   0.283 
+   user  system elapsed 
+  0.284   0.000   0.284 
+
+  0.000   0.284 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.285   0.000   0.286 
+   user  system elapsed 
+  0.286   0.000   0.285 
+   user  system elapsed 
+  0.285   0.000   0.286 
+   user  system elapsed 
+  0.285   0.000   0.285 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.283   0.003   0.286 
+   user  system elapsed 
+  0.286   0.000   0.286 
+   user  system elapsed 
+  0.286   0.000   0.286 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.286   0.000   0.286   0.282   0.004   0.286 
+
+   user  system elapsed 
+   user  system elapsed 
+  0.286   0.000   0.286 
+  0.286   0.000   0.286 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.287   0.000   0.286 
+   user  system elapsed 
+  0.287   0.000   0.287 
+   user  system elapsed 
+  0.287   0.000   0.287 
+   user  system elapsed 
+  0.287   0.000   0.286 
+   user  system elapsed 
+  0.284   0.003   0.286 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.286   0.000   0.287    user  system elapsed 
+  0.286   0.001   0.286 
+   user  system elapsed 
+  0.286   0.000   0.286 
+   user  system elapsed 
+  0.286   0.000   0.286 
+
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.283   0.003   0.287 
+   user  system elapsed 
+  0.287   0.000   0.287 
+   user  system elapsed 
+  0.287   0.000   0.287 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.287   0.000   0.288 
+   user  system elapsed 
+   user  system elapsed 
+  0.287   0.000   0.287 
+  0.287   0.000   0.287 
+   user  system elapsed 
+  0.287   0.000   0.287 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed    user  system elapsed 
+  0.288 
+  0.288   0.000   0.288 
+   user  system elapsed 
+  0.285   0.002   0.288 
+   user  system elapsed 
+  0.288   0.000   0.288 
+   user  system elapsed 
+  0.288   0.000   0.288 
+  0.000   0.288 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   0.31    0.00    0.31 
+   user  system elapsed 
+  0.310   0.000   0.311 
+   user  system elapsed 
+   0.31    0.00    0.31 
+   user  system elapsed 
+   0.31    0.00    0.31 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.311   0.000   0.311 
+   user  system elapsed 
+  0.310   0.000   0.311 
+   user  system elapsed 
+  0.311   0.000   0.311 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.311   0.000   0.311 
+   user  system elapsed 
+  0.311   0.000   0.311 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.312   0.000   0.311 
+   user  system elapsed 
+  0.311   0.000   0.311 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.308   0.003   0.312 
+   user  system elapsed 
+  0.311   0.000   0.312 
+   user  system elapsed 
+  0.312   0.000   0.311 
+   user  system elapsed 
+  0.312   0.000   0.311 
+   user  system elapsed 
+  0.294   0.018   0.311 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.283   0.000   0.283 
+   user  system elapsed 
+  0.283   0.000   0.283 
+   user  system elapsed 
+  0.283   0.000   0.282 
+   user  system elapsed 
+  0.282   0.000   0.283 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.283   0.000   0.283 
+   user  system elapsed 
+  0.283   0.000   0.283 
+   user  system elapsed 
+  0.283   0.000   0.284 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system processing time for pbdDMAT is 
+elapsed 
+  0.284   0.000   0.283 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.284   0.000   0.284 
+   user  system elapsed 
+  0.284    user  system elapsed 
+  0.284   0.000   0.284 
+  0.000   0.284 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.284   0.000   0.284    user  system elapsed 
+  0.284   0.000   0.284 
+   user  system elapsed 
+  0.280   0.004   0.284    user  system elapsed 
+  0.284   0.000   0.285 
+   user  system elapsed 
+  0.284   0.000   0.284 
+
+
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   0.28    0.00    0.28 
+   user  system elapsed 
+  0.279   0.001   0.281 
+   user  system elapsed 
+   0.28    0.00    0.28 
+   user  system elapsed 
+  0.279   0.001   0.280 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.281   0.000   0.281 
+   user  system elapsed 
+  0.281   0.000   0.281 
+   user  system elapsed 
+  0.281   0.000   0.281 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system    user  system elapsed 
+elapsed 
+  0.282   0.000   0.281 
+  0.281   0.000   0.282 
+   user  system elapsed 
+   user  system elapsed 
+  0.282   0.000   0.281   0.282   0.000   0.281 
+
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.281    user  system elapsed 
+   user  system elapsed 
+  0.282   0.000   0.282    user  system elapsed 
+  0.282   0.000    user  system elapsed 
+  0.282   0.000   0.282 
+  0.000   0.282 
+  0.282   0.000   0.282 
+
+  0.282 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.278   0.000   0.278 
+   user  system elapsed 
+  0.277   0.000   0.278 
+   user  system elapsed 
+  0.277   0.000   0.277 
+   user  system elapsed 
+  0.278   0.000   0.277 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.278   0.000   0.279    user  system elapsed 
+
+  0.278   0.000   0.279 
+   user  system elapsed 
+  0.278   0.000   0.278 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.279   0.000 processing time for pbdDMAT is 
+  0.279 
+processing time for pbdDMAT is 
+   user  system elapsed 
+   user  system elapsed 
+  0.279   0.000   0.279 
+   user  system elapsed 
+  0.278   0.000   0.279 
+  0.279   0.000   0.279 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+processing time for pbdDMAT is 
+   user  system elapsed 
+  0.279   0.000    user  system elapsed 
+  0.280   0.000   0.279 
+   user  system elapsed 
+   user  system elapsed 
+  0.279    user  system elapsed 
+  0.279   0.000   0.279 
+  0.279 
+  0.279   0.000   0.280 
+  0.000   0.280 
+processing time for single node is
+           [,1]       [,2]       [,3]       [,4]       [,5]
+[1,] 35252869.3   101617.7  1779141.7  -331437.8   656120.1
+[2,]   101617.7 35672826.2  2557112.7  1465228.3   992308.5
+[3,]  1779141.7  2557112.7 35857889.4   760421.8  -227987.9
+[4,]  -331437.8  1465228.3   760421.8 35103520.2   637677.1
+[5,]   656120.1   992308.5  -227987.9   637677.1 34341510.0
+           [,1]       [,2]       [,3]       [,4]       [,5]
+[1,] 35252869.3   101617.7  1779141.7  -331437.8   656120.1
+[2,]   101617.7 35672826.2  2557112.7  1465228.3   992308.5
+[3,]  1779141.7  2557112.7 35857889.4   760421.8  -227987.9
+[4,]  -331437.8  1465228.3   760421.8 35103520.2   637677.1
+[5,]   656120.1   992308.5  -227987.9   637677.1 34341510.0
+[1] TRUE
