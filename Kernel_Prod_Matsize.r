@@ -7,9 +7,11 @@ Nnode = as.numeric(args[1])
 
 init.grid()
 
+Block.size <- c(16)
+
+if(comm.rank()==0){
 nrows <- as.numeric(args[2])
 ncols <- as.numeric(args[3])
-Block.size <- c(16)
 
 mn <- 10
 sdd <- 100
@@ -52,8 +54,6 @@ model3 <- function(dim,xi.val,off.min, off.max){
 	}
 	return(prec)
 }
-if(comm.rank()==0){
-
 Z <- matrix(rnorm(n=nrows*ncols,mean=mn,sd=sdd),nrow=nrows,ncol=ncols)
 
 
@@ -71,18 +71,25 @@ Omega <- NULL
 
 }
 
+if(comm.rank()==0){
 
+cat("processing time for single node is\n")
+ ptm1 <- proc.time()
+ r_K <- Z%*%Omega%*%t(Z)
+  
+single.time <- proc.time()-ptm1
+ 
+}
+barrier()
 
 for(i in 1:100){
 
-
-
 bldim <- c(Block.size,Block.size)
 
-ptm <- proc.time()
 
-dZ <-as.ddmatrix(x=Z,bldim=bldim)
-dOmega <- as.ddmatrix(x=Omega, bldim=bldim)
+ptm <- comm.timer({
+dZ <-as.ddmatrix(x=Z,bldim=bldim);
+dOmega <- as.ddmatrix(x=Omega, bldim=bldim);
 
 
 #dGamma2 <- crossprod(dGamma,dGamma)
@@ -94,45 +101,31 @@ dOmega <- as.ddmatrix(x=Omega, bldim=bldim)
 #}
 
 
-cat("processing time for pbdDMAT is \n")
-print(proc.time()-ptm)
-
-cross_dZdOm <- crossprod(t(dZ),dOmega) 
-dK <- crossprod(t(cross_dZdOm), t(dZ))
-
-
+dK <- dZ %*% dOmega %*% t(dZ);
 pbd_K <- as.matrix(dK, proc.dest=0)
+})
 
-
+if(comm.rank()==0){
 
 if(i==1){
-	mpi.time.mat <- reduce(proc.time()-ptm)/Nnode
+	mpi.time.mat <- ptm
 
 }else{
 
-        mpi.time.mat <- rbind(mpi.time.mat, reduce(proc.time()-ptm)/Nnode)
+        mpi.time.mat <- rbind(mpi.time.mat, ptm)
 }
 
 if(i==100){
  mpi.time <- apply(mpi.time.mat,2,mean)
 }
-
+}
 
 }
 
 if(comm.rank()==0){
-
-cat("processing time for single node is\n")
- ptm1 <- proc.time()
- r_K <- Z%*%Omega%*%t(Z)
-  
  print(pbd_K[1:5,1:5])
  print(r_K[1:5,1:5])
- single.time <- proc.time()-ptm1
-
-
-
-
+ 
  print(all.equal(pbd_K,r_K))
 
   save.image(paste0("~/src/my_project/parallel_project/Comp_Kernel_Prod_",nrows,".RData"))

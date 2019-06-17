@@ -21,9 +21,10 @@ module list
 
 ## prevent warning when fork is used with MPI
 export OMPI_MCA_mpi_warn_on_fork=0
+export OPENBLAS_NUM_THREADS=1
 
 # An illustration of fine control of R scripts and cores on several nodes
-orterun -np 4 Rscript pbdDMAT_ex1.r > ~/src/my_project/parallel_project/pbdDMAT_ex1.rout
+orterun -np 4 --map-by node Rscript pbdDMAT_ex1.r 1 > ~/src/my_project/parallel_project/pbdDMAT_ex1.rout
 
 exit; 
 

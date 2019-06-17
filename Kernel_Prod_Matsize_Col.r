@@ -70,7 +70,14 @@ Z <-NULL
 Omega <- NULL
 
 }
+if(comm.rank()==0){
 
+cat("processing time for single node is\n")
+ ptm1 <- proc.time()
+ single.time <- system.time({r_K <- Z%*%Omega%*%t(Z)})
+print(single.time)
+}
+barrier() 
 
 
 for(i in 1:100){
@@ -79,38 +86,27 @@ for(i in 1:100){
 
 bldim <- c(Block.size,Block.size)
 
-ptm <- proc.time()
+ptm <- comm.timer({
 
-dZ <-as.ddmatrix(x=Z,bldim=bldim)
-dOmega <- as.ddmatrix(x=Omega, bldim=bldim)
-
-
-#dGamma2 <- crossprod(dGamma,dGamma)
-#Gamma2 <- as.matrix(dGamma2,proc.dest=0)
-
-#if(comm.rank()==0){
-#print(all.equal(Omega,Gamma2))
-
-#}
+dZ <-as.ddmatrix(x=Z,bldim=bldim);
+dOmega <- as.ddmatrix(x=Omega, bldim=bldim);
 
 
-cat("processing time for pbdDMAT is \n")
-print(proc.time()-ptm)
-
-cross_dZdOm <- crossprod(t(dZ),dOmega) 
-dK <- crossprod(t(cross_dZdOm), t(dZ))
+dK <- dZ %*% dOmega %*% t(dZ);
 
 
-pbd_K <- as.matrix(dK, proc.dest=0)
+pbd_K <- as.matrix(dK, proc.dest=0);
+})
 
+comm.print(ptm)
 
 
 if(i==1){
-	mpi.time.mat <- reduce(proc.time()-ptm)/Nnode
+	mpi.time.mat <- ptm
 
 }else{
 
-        mpi.time.mat <- rbind(mpi.time.mat, reduce(proc.time()-ptm)/Nnode)
+        mpi.time.mat <- rbind(mpi.time.mat, ptm)
 }
 
 if(i==100){
@@ -120,18 +116,9 @@ if(i==100){
 
 }
 
-if(comm.rank()==0){
-
-cat("processing time for single node is\n")
- ptm1 <- proc.time()
- r_K <- Z%*%Omega%*%t(Z)
-  
+if(comm.rank()==0){ 
  print(pbd_K[1:5,1:5])
  print(r_K[1:5,1:5])
- single.time <- proc.time()-ptm1
-
-
-
 
  print(all.equal(pbd_K,r_K))
 

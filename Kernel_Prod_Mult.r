@@ -6,16 +6,22 @@ args = commandArgs(trailingOnly = TRUE)
 Nnode = as.numeric(args[1])
 
 init.grid()
-
-nrows <- 50
-ncol.cand <- 500*c(1,2,3,4,5,10)
+nrows <- 5000
+ncols <- 5000
 
 mn <- 10
 sdd <- 100
 
-bldim <- c(16,16)
-###### AR(2): 2nd-order neighborhood matrix ##############
 
+bldim <- c(16,16)
+
+#i <- 0
+#for(ncols in ncol.cand){
+
+#i <- i+1
+
+if(comm.rank()==0){
+##### AR(2): 2nd-order neighborhood matrix ##############
 model2 <- function(dim, xi.val, off.diag){
 	
 	prec <- diag(1,dim)*xi.val
@@ -51,13 +57,6 @@ model3 <- function(dim,xi.val,off.min, off.max){
 	}
 	return(prec)
 }
-i <- 0
-for(ncols in ncol.cand){
-
-i <- i+1
-
-if(comm.rank()==0){
-
 Z <- matrix(rnorm(n=nrows*ncols,mean=mn,sd=sdd),nrow=nrows,ncol=ncols)
 
 
@@ -70,15 +69,33 @@ is.positive.semi.definite(Omega)
 
 
 }else{
+model2 <- NULL
+model3 <- NULL
 Z <-NULL
 Omega <- NULL
 
 }
 
-ptm <- proc.time()
+if(comm.rank()==0){
 
-dZ <-as.ddmatrix(x=Z,bldim=bldim)
-dOmega <- as.ddmatrix(x=Omega, bldim=bldim)
+cat("processing time for single node is\n")
+ ptm1 <- proc.time()
+single.time <- system.time({ r_K <- Z%*%Omega%*%t(Z)})
+
+#single.time <- proc.time()-ptm1
+print(single.time)
+
+
+
+} 
+barrier()
+
+
+
+ptm <- comm.timer({
+
+dZ <-as.ddmatrix(x=Z,bldim=bldim);
+dOmega <- as.ddmatrix(x=Omega, bldim=bldim);
 
 
 #dGamma2 <- crossprod(dGamma,dGamma)
@@ -90,50 +107,32 @@ dOmega <- as.ddmatrix(x=Omega, bldim=bldim)
 #}
 
 
-cat("processing time for pbdDMAT is \n")
+dK <- dZ %*% dOmega %*% t(dZ);
 
 
-cross_dZdOm <- crossprod(t(dZ),dOmega) 
-dK <- crossprod(t(cross_dZdOm), t(dZ))
+pbd_K <- as.matrix(dK, proc.dest=0);
+})
+
+comm.print(ptm)
+
+#cat(paste0("processing time for pbdDMAT",comm.rank()," is \n"))
+#if(i==1){
+#	mpi.time <- reduce(proc.time()-ptm)/Nnode
+#}else{
+
+#        mpi.time <- rbind(mpi.time, reduce(proc.time()-ptm)/Nnode)
+#}
 
 
-pbd_K <- as.matrix(dK, proc.dest=0)
-
-
-
-if(i==1){
-	mpi.time <- reduce(proc.time()-ptm)/Nnode
-
-}else{
-
-        mpi.time <- rbind(mpi.time, reduce(proc.time()-ptm)/Nnode)
-}
 
 if(comm.rank()==0){
-
-cat("processing time for single node is\n")
- ptm1 <- proc.time()
- r_K <- Z%*%Omega%*%t(Z)
-  
+ 
  print(pbd_K[1:5,1:5])
  print(r_K[1:5,1:5])
  
-if(i==1){
-	single.time <- proc.time()-ptm1
-
-}else{
-
-        single.time <- rbind(single.time, proc.time()-ptm1)
-}
+print(all.equal(pbd_K,r_K))
 
 
- print(all.equal(pbd_K,r_K))
-}
-
-}
-
-if(comm.rank()==0){
-
-  save.image("~/src/my_project/parallel_project/Comp_Kernel_Prod_Col.RData")
+  save.image("~/src/my_project/parallel_project/Comp_Kernel_Prod.RData")
 }
 finalize()
