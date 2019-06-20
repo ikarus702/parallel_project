@@ -1,10 +1,10 @@
 
 library(mvtnorm)
 
-Data.index <- 100 ## number of datasets
-p.val <- 200
-q.val <- 0
-n.val <- 100
+Data.num <- 50 ## number of datasets
+p.val <- 20
+q.val <- 180
+n.val <- 200
 xi.val1 <- 1
 xi.val2 <- 1
 off.val1 <- 0; off.val2 <- 0
@@ -14,7 +14,8 @@ data.list <- list()
 eps.list <- list()
 
 
-gen.NGK <- function(Data.index,p=p.val,q=q.val,n=n.val,xi1=xi.val1,xi2=xi.val2,off1=off.val1,off2=off.val2){
+
+gen.NGK <- function(Data.num,p=p.val,q=q.val,n=n.val,xi1=xi.val1,xi2=xi.val2,off1=off.val1,off2=off.val2){
   
   ############# Setting with Xi matrix ##############
   
@@ -27,7 +28,7 @@ gen.NGK <- function(Data.index,p=p.val,q=q.val,n=n.val,xi1=xi.val1,xi2=xi.val2,o
   mat.I <- diag(n)
   
   zero.vec1 <- matrix(0,p,1)
-#  zero.vec2 <- matrix(0,q,1)
+  zero.vec2 <- matrix(0,q,1)
   zero.vec3 <- matrix(0,n,1)
   
   set.seed(123)
@@ -52,23 +53,26 @@ gen.NGK <- function(Data.index,p=p.val,q=q.val,n=n.val,xi1=xi.val1,xi2=xi.val2,o
   }
   xi.val1 <- xi1
   xi.sigma1 <- model1(p,xi.val=xi1,off.diag=off1)
- # xi.sigma2 <- model1(q,xi.val=xi2,off.diag =off2)
+  xi.sigma2 <- model1(q,xi.val=xi2,off.diag =off2)
+  
+  
+  load("NGK_PK_GP_Data_p200.RData")
 
-  for(Data.index in 1:Data.index){
+  for(Data.index in 1:Data.num){
     
-    z <- matrix(0,Tot.p,n)
+    y <- matrix(data.list[[Data.index]][,1],nrow=n)
+    z <- t(data.list[[Data.index]][,-1])
+    eps <- eps.list[[Data.index]]
+    X <- runif(n,-1,1)
+    X <- matrix(sort(X),ncol=1)
+    beta <- 1
+    
+    
     Scale.z <- matrix(0,Tot.p,n)
-    eps <- rnorm(n)
-    
     Square.z <- list()
    
     ###### z1 : sig, z2 : not sig
-    
-    z[1:p,1:n] <- t(rmvnorm(n,zero.vec1,solve(xi.sigma1)))
-   # for(j in c((p+1):Tot.p)){
-   #    z[j,] <- runif(n,0,xi.val2)
-   #  }
-    
+  
     
     for(j in 1:Tot.p){
       Scale.z[j,] <- scale(z[j,])
@@ -87,18 +91,13 @@ gen.NGK <- function(Data.index,p=p.val,q=q.val,n=n.val,xi1=xi.val1,xi2=xi.val2,o
       }
     }
     
-    h <- matrix(rmvnorm(1,zero.vec3,true.tau*poly.K))
-    
-    y <- matrix(h+eps,nrow=n)
-    
-    
-     eps.list[[Data.index]] <<- eps
-    data.list[[Data.index]] <<- data.frame(cbind(y,t(z)))
-    
+    y <- matrix(X%*%beta+y,nrow=n)
+    eps.list[[Data.index]] <<- eps
+    data.list[[Data.index]] <<- data.frame(cbind(y,X,t(z)))
   }
   
-  save.image("NGK_PK_GP_Data.RData")
+  save.image("Unif_Semi_NGK_PK_Data_p200.RData")
 }
 
 
-gen.NGK(Data.index,p.val,q.val,n.val,xi.val1,xi.val2,off.val1,off.val2)
+gen.NGK(Data.num,p.val,q.val,n.val,xi.val1,xi.val2,off.val1,off.val2)
