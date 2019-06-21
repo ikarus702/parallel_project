@@ -1,0 +1,50 @@
+Using 4x2 for the default grid size
+
+[1] 24.5
+[1] 24.5
+[1] 24.5
+[1] "numeric"[1] 24.5
+[1] "numeric"
+[1] 24.5
+[1] "numeric"
+[1] 24.5
+[1] "numeric"
+[1] 24.5
+[1] "numeric"
+[1] 24.5
+[1] "numeric"
+[1] "numeric"
+[1] "numeric"
+
+z.dmat is 
+z.dmat is 
+z.dmat is 
+z.dmat is 
+z.dmat is 
+z.dmat is 
+z.dmat is 
+z.dmat is 
+     [,1]
+[1,]    1
+[2,]    2
+     [,1]
+[1,]    1
+[2,]    2
+     [,1]
+[1,]    1
+[2,]    2
+     [,1]
+[1,]    1
+[2,]    2
+     [,1]
+[1,]    1
+[2,]    2
+     [,1]
+[1,]    1
+[2,]    2
+     [,1]
+[1,]    1
+[2,]    2
+     [,1]
+[1,]    1
+[2,]    2

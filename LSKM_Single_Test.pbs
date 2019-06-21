@@ -1,0 +1,30 @@
+#!/bin/bash
+#PBS -N LSKM_Single
+#PBS -A ccsd
+#PBS -l qos=std,nodes=1:ppn=4,walltime=00:30:00
+#PBS -q batch
+#PBS -W group_list=cades-ccsd
+
+#PBS -M ikarus702@gmail.com
+#PBS -m abe
+#PBS -o LSKM_Single.o
+#PBS -e LSKM_Single.e
+
+cd ~/src/my_project/parallel_project
+pwd
+node_num=$(($PBS_NUM_NODES*$PBS_NUM_PPN))
+echo "$node_num"
+
+## modules can vary on platforms
+module load R
+echo "loaded R"
+module list
+
+## prevent warning when fork is used with MPI
+export OPENBLAS_NUM_THREADS=1
+
+# An illustration of fine control of R scripts and cores on several nodes
+nohup R CMD BATCH LSKM_Single_Test.r  
+
+exit; 
+
