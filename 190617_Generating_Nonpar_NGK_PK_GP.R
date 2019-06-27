@@ -1,10 +1,12 @@
 
-library(mvtnorm)
+library(mvtnorm, lib.loc="~/R/lib")
 
-Data.index <- 50 ## number of datasets
-p.val <- 20
-q.val <- 180
-n.val <- 200
+args = commandArgs(trailingOnly = TRUE)
+
+Data.index <- 1 ## number of datasets
+p.val <- as.numeric(args[1])
+q.val <- as.numeric(args[2])
+n.val <- as.numeric(args[3])
 xi.val1 <- 1
 xi.val2 <- 1
 off.val1 <- 0; off.val2 <- 0
@@ -65,13 +67,13 @@ gen.NGK <- function(Data.index,p=p.val,q=q.val,n=n.val,xi1=xi.val1,xi2=xi.val2,o
     ###### z1 : sig, z2 : not sig
     
     z[1:p,1:n] <- t(rmvnorm(n,zero.vec1,solve(xi.sigma1)))
-   # for(j in c((p+1):Tot.p)){
-   #    z[j,] <- runif(n,0,xi.val2)
-   #  }
+    for(j in c((p+1):Tot.p)){
+       z[j,] <- runif(n,0,xi.val2)
+     }
     
     
     for(j in 1:Tot.p){
-      Scale.z[j,] <- scale(z[j,])
+      Scale.z[j,] <- (z[j,])
     }
     
     poly.K <- matrix(NA,n,n) 
@@ -92,12 +94,12 @@ gen.NGK <- function(Data.index,p=p.val,q=q.val,n=n.val,xi1=xi.val1,xi2=xi.val2,o
     y <- matrix(h+eps,nrow=n)
     
     
-     eps.list[[Data.index]] <<- eps
+    eps.list[[Data.index]] <<- eps
     data.list[[Data.index]] <<- data.frame(cbind(y,t(z)))
     
   }
   
-  save.image("NGK_PK_GP_Data.RData")
+  save.image(paste0("~/src/RData/NGK_PK_GP_Data_n",n,"_p",Tot.p,".RData"))
 }
 
 

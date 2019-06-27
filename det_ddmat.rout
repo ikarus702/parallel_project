@@ -1,0 +1,13 @@
+Using 8x8 for the default grid size
+
+processing time for single node is
+   user  system elapsed 
+  0.001   0.000   0.013 
+COMM.RANK = 0
+      min      mean       max 
+0.0780000 0.0820625 0.0910000 
+COMM.RANK = 0
+[1] 3628800
+[1] "numeric"
+[1] "numeric"
+[1] TRUE
