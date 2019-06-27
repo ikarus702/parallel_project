@@ -1,10 +1,12 @@
 
-library(mvtnorm)
+library(mvtnorm, lib.loc="~/R/lib")
 
-Data.num <- 50 ## number of datasets
-p.val <- 20
-q.val <- 180
-n.val <- 200
+args <- commandArgs(trailingOnly=TRUE)
+
+Data.num <- 1 ## number of datasets
+p.val <- as.numeric(args[1])
+q.val <- as.numeric(args[2])
+n.val <- as.numeric(args[3])
 xi.val1 <- 1
 xi.val2 <- 1
 off.val1 <- 0; off.val2 <- 0
@@ -56,7 +58,7 @@ gen.NGK <- function(Data.num,p=p.val,q=q.val,n=n.val,xi1=xi.val1,xi2=xi.val2,off
   xi.sigma2 <- model1(q,xi.val=xi2,off.diag =off2)
   
   
-  load("NGK_PK_GP_Data_p200.RData")
+  load(paste0("~/src/RData/NGK_PK_GP_Data_n",n,"_p",Tot.p,".RData"))
 
   for(Data.index in 1:Data.num){
     
@@ -96,7 +98,7 @@ gen.NGK <- function(Data.num,p=p.val,q=q.val,n=n.val,xi1=xi.val1,xi2=xi.val2,off
     data.list[[Data.index]] <<- data.frame(cbind(y,X,t(z)))
   }
   
-  save.image("Unif_Semi_NGK_PK_Data_p200.RData")
+  save.image(paste0("~/src/RData/Unif_Semi_NGK_PK_Data_n",n,"_p",Tot.p,".RData"))
 }
 
 
